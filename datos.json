@@ -4,8 +4,6 @@
         "abaá",
         "abey",
         "abia",
-        "b",
-        "Babia",
         "bah",
         "bahaí",
         "bahía",
@@ -31,13 +29,11 @@
         "buhío",
         "búho",
         "buyo",
-        "Cabo",
         "eubea",
         "eubeo",
         "haba",
         "hiyab",
         "hobo",
-        "Job",
         "obo",
         "oboe",
         "obué",
@@ -55,6 +51,7 @@
         "baba",
         "babeo",
         "babi",
+        "babia",
         "beba",
         "bebe",
         "bebé",
@@ -779,8 +776,7 @@
         "bocina",
         "bocón",
         "bocona",
-        "exhibición",
-        "Rubicón"
+        "exhibición"
     ],
     "bcnc": [
         "bacinica",
@@ -2132,8 +2128,7 @@
         "óbelo",
         "oblea",
         "óbolo",
-        "oíble",
-        "Pablo"
+        "oíble"
     ],
     "blb": [
         "balboa",
@@ -3346,6 +3341,7 @@
         "biliosa",
         "bilioso",
         "bilis",
+        "blas",
         "blues",
         "blusa",
         "bolisa",
@@ -3693,12 +3689,14 @@
         "bioma",
         "bohema",
         "bohemia",
+        "bohemia",
         "bohemio",
         "bohemo",
         "boom",
         "bum"
     ],
     "bmb": [
+        "bamba",
         "bamba",
         "bambi",
         "bambú",
@@ -3995,6 +3993,7 @@
         "bayana",
         "bayano",
         "bayón",
+        "bayona",
         "ben",
         "bien",
         "bienio",
@@ -4003,6 +4002,7 @@
         "bixíneo",
         "boina",
         "bon",
+        "bona",
         "bona",
         "bono",
         "boyuna",
@@ -4020,7 +4020,6 @@
         "habón",
         "hebén",
         "ibón",
-        "Líbano",
         "obnoxia",
         "obnoxio",
         "yabuna"
@@ -4706,6 +4705,9 @@
         "bonísimo",
         "buenismo"
     ],
+    "bnsrs": [
+        "buenos aires"
+    ],
     "bnst": [
         "banasta",
         "banasto",
@@ -5387,6 +5389,7 @@
     "brbr": [
         "barbar",
         "bárbara",
+        "bárbara",
         "barbaria",
         "barbarie",
         "bárbaro",
@@ -5708,6 +5711,7 @@
         "borcellar"
     ],
     "brcln": [
+        "barcelona",
         "borcelana",
         "borcelano"
     ],
@@ -6130,6 +6134,7 @@
         "abrigoso",
         "burgés",
         "burgesa",
+        "burgos",
         "burgués",
         "burguesa",
         "burguesía"
@@ -6144,7 +6149,8 @@
         "burguesismo"
     ],
     "brgt": [
-        "bragueta"
+        "bragueta",
+        "bright"
     ],
     "brgtr": [
         "braguetero"
@@ -6222,6 +6228,7 @@
         "barojiana",
         "barojiano",
         "borujón",
+        "briján",
         "burujón"
     ],
     "brjr": [
@@ -6445,7 +6452,7 @@
         "abrileño"
     ],
     "brm": [
-        "Abraham",
+        "abraham",
         "abroma",
         "baremo",
         "berma",
@@ -6602,7 +6609,7 @@
         "brumazón"
     ],
     "brn": [
-        "Abrahán",
+        "abrahán",
         "bareiní",
         "barión",
         "barn",
@@ -7655,6 +7662,7 @@
     ],
     "brsl": [
         "brasil",
+        "brasil",
         "brosla",
         "brusela"
     ],
@@ -7677,6 +7685,7 @@
         "broslar"
     ],
     "brsls": [
+        "bruselas",
         "bruselas"
     ],
     "brslt": [
@@ -8028,6 +8037,7 @@
         "barza",
         "berozo",
         "berza",
+        "bierzo",
         "boyeriza",
         "boyerizo",
         "braza",
@@ -8157,6 +8167,7 @@
     "bs": [
         "abasí",
         "abiso",
+        "abs",
         "abuso",
         "baisa",
         "basa",
@@ -8173,7 +8184,6 @@
         "biso",
         "bus",
         "buso",
-        "Cobos",
         "habús",
         "ibis",
         "obesa",
@@ -9219,7 +9229,6 @@
         "byte",
         "hábito",
         "óbito",
-        "Tíbet",
         "wahabita"
     ],
     "btbl": [
@@ -9303,6 +9312,9 @@
     ],
     "btcrtn": [
         "betacaroteno"
+    ],
+    "btcs": [
+        "batuecas"
     ],
     "btcz": [
         "batacazo"
@@ -9898,6 +9910,7 @@
     ],
     "btv": [
         "bátava",
+        "batavia",
         "bátavo"
     ],
     "btvl": [
@@ -10241,6 +10254,9 @@
         "buñuelera",
         "buñuelero"
     ],
+    "bñn": [
+        "bañón"
+    ],
     "bñr": [
         "bañar",
         "bañera",
@@ -10262,7 +10278,6 @@
         "auca",
         "ayaco",
         "ayacuá",
-        "c",
         "ca",
         "cai",
         "cao",
@@ -10304,13 +10319,9 @@
         "hucia",
         "hueca",
         "hueco",
-        "Lucía",
-        "México",
         "oc",
         "oca",
         "ocio",
-        "Picio",
-        "Quico",
         "ucé",
         "uci",
         "xeca",
@@ -10325,6 +10336,7 @@
         "acebo",
         "cabe",
         "cabio",
+        "cabo",
         "cabo",
         "cabuya",
         "cabuyo",
@@ -11137,7 +11149,8 @@
     "cbs": [
         "acabose",
         "cabás",
-        "cabús"
+        "cabús",
+        "cobos"
     ],
     "cbsm": [
         "cubismo"
@@ -11753,6 +11766,7 @@
         "acechona",
         "ayacuchana",
         "ayacuchano",
+        "cachano",
         "cachina",
         "cachón",
         "cochano",
@@ -12754,6 +12768,7 @@
         "cauda",
         "cayada",
         "cayado",
+        "cd",
         "ceda",
         "cedo",
         "cid",
@@ -13283,6 +13298,9 @@
     ],
     "cdrltrl": [
         "cuadriliteral"
+    ],
+    "cdrm": [
+        "cd-rom"
     ],
     "cdrmn": [
         "caderamen",
@@ -14190,7 +14208,6 @@
         "huichó",
         "icho",
         "ichu",
-        "Koch",
         "ochío",
         "ocho",
         "uchu",
@@ -15043,6 +15060,7 @@
         "achiguarse"
     ],
     "chgs": [
+        "chagas",
         "chagüís"
     ],
     "chgt": [
@@ -15094,6 +15112,7 @@
         "chele",
         "cheli",
         "chelo",
+        "chile",
         "chile",
         "chili",
         "chola",
@@ -15788,7 +15807,6 @@
     "chn": [
         "achín",
         "achina",
-        "Cachano",
         "chan",
         "chaná",
         "chane",
@@ -16278,6 +16296,7 @@
         "chepe",
         "chepia",
         "chepo",
+        "chiapa",
         "chip",
         "chipa",
         "chipá",
@@ -17788,9 +17807,6 @@
         "ochavada",
         "ochavado"
     ],
-    "chvj": [
-        "Nochevieja"
-    ],
     "chvl": [
         "chaval",
         "chavala",
@@ -18280,6 +18296,7 @@
         "clíbano"
     ],
     "clbr": [
+        "calabar",
         "calibre",
         "célebre",
         "celebro",
@@ -19394,6 +19411,7 @@
     ],
     "cllj": [
         "calleja",
+        "calleja",
         "callejeo",
         "callejo",
         "colleja"
@@ -19982,6 +20000,7 @@
         "calina",
         "calón",
         "caolín",
+        "ceilán",
         "celán",
         "clan",
         "claxon",
@@ -20181,6 +20200,7 @@
         "colinérgico"
     ],
     "clns": [
+        "calaínos",
         "cálanis",
         "calinosa",
         "calinoso",
@@ -20940,8 +20960,7 @@
         "coalescente"
     ],
     "clscsm": [
-        "clasicismo",
-        "Neoclasicismo"
+        "clasicismo"
     ],
     "clscst": [
         "clasicista"
@@ -21037,6 +21056,7 @@
         "clausurar"
     ],
     "clss": [
+        "celsius",
         "clisos"
     ],
     "clssm": [
@@ -21360,6 +21380,7 @@
     ],
     "cltrv": [
         "calatrava",
+        "calatrava",
         "calatravo"
     ],
     "cltrvñ": [
@@ -21668,6 +21689,7 @@
         "caloñar"
     ],
     "clñs": [
+        "calañas",
         "calañés",
         "calañesa"
     ],
@@ -23521,6 +23543,9 @@
     "cmpstj": [
         "compostaje"
     ],
+    "cmpstl": [
+        "compostela"
+    ],
     "cmpstln": [
         "compostelana",
         "compostelano"
@@ -24054,6 +24079,7 @@
         "ación",
         "acné",
         "cahuín",
+        "caín",
         "can",
         "cana",
         "cané",
@@ -24165,6 +24191,7 @@
         "cónica",
         "cónico",
         "conuco",
+        "cuenca",
         "cuenca",
         "cuenco",
         "eocénica",
@@ -24462,6 +24489,7 @@
     ],
     "cnclr": [
         "cancelar",
+        "cancelaría",
         "cancelario",
         "cancelería",
         "canicular",
@@ -25060,6 +25088,7 @@
         "concuñado"
     ],
     "cnd": [
+        "canadá",
         "cande",
         "candi",
         "canida",
@@ -26384,6 +26413,9 @@
     "cngrtltr": [
         "congratulatoria",
         "congratulatorio"
+    ],
+    "cngrv": [
+        "congreve"
     ],
     "cngs": [
         "cangüeso",
@@ -27831,6 +27863,9 @@
         "constantiniana",
         "constantiniano"
     ],
+    "cnstntnpl": [
+        "constantinopla"
+    ],
     "cnstntnpltn": [
         "constantinopolitana",
         "constantinopolitano"
@@ -28016,7 +28051,6 @@
         "heciento",
         "icnita",
         "oxiacanta",
-        "Vicente",
         "yacente",
         "yaciente"
     ],
@@ -30648,6 +30682,7 @@
     "cpln": [
         "capelán",
         "capelina",
+        "caplán",
         "capulín",
         "capulina",
         "cipolina",
@@ -31559,6 +31594,7 @@
         "coreo",
         "cori",
         "corí",
+        "coria",
         "corío",
         "coro",
         "corúa",
@@ -31842,6 +31878,7 @@
     "crbs": [
         "cárbaso",
         "cerbas",
+        "cribas",
         "criboso",
         "curbasá"
     ],
@@ -32905,6 +32942,7 @@
         "cárdeno",
         "cardina",
         "cardón",
+        "cardona",
         "cardona",
         "cariedón",
         "cerdón",
@@ -34069,6 +34107,7 @@
         "cirinea",
         "cirineo",
         "coirón",
+        "corán",
         "corana",
         "coreana",
         "coreano",
@@ -34569,6 +34608,7 @@
         "corintia",
         "corintio",
         "corinto",
+        "corinto",
         "corneta",
         "cornete",
         "cornuto",
@@ -34905,6 +34945,7 @@
     ],
     "crps": [
         "corps",
+        "corpus",
         "corpus"
     ],
     "crpscl": [
@@ -35173,7 +35214,8 @@
         "carricuba"
     ],
     "crrcc": [
-        "carracacao"
+        "carracacao",
+        "carracuca"
     ],
     "crrcch": [
         "carricoche"
@@ -37211,6 +37253,7 @@
         "curvo"
     ],
     "crvc": [
+        "caravaca",
         "curuvica"
     ],
     "crvcbr": [
@@ -37499,6 +37542,7 @@
         "cáseo",
         "casi",
         "casia",
+        "casio",
         "caso",
         "causa",
         "cese",
@@ -37898,7 +37942,8 @@
         "cósmico"
     ],
     "csmd": [
-        "casmodia"
+        "casmodia",
+        "cuasimodo"
     ],
     "csmdrm": [
         "cosmódromo"
@@ -38705,6 +38750,9 @@
     ],
     "cstrnt": [
         "castrante"
+    ],
+    "cstrpl": [
+        "cástor y pólux"
     ],
     "cstrprcs": [
         "castrapuercas",
@@ -40391,9 +40439,6 @@
     "ctzj": [
         "acuatizaje"
     ],
-    "ctzm": [
-        "Moctezuma"
-    ],
     "ctzmbd": [
         "catizumbada"
     ],
@@ -40448,6 +40493,7 @@
         "cavada",
         "cavado",
         "covada",
+        "covid",
         "cuevuda",
         "cuevudo"
     ],
@@ -41107,7 +41153,6 @@
         "axoidea",
         "axoideo",
         "ayuda",
-        "d",
         "de",
         "dea",
         "dey",
@@ -41137,14 +41182,12 @@
         "ideay",
         "ideo",
         "ido",
-        "Judea",
         "oda",
         "odio",
         "oída",
         "oídio",
         "oído",
         "óxido",
-        "Veda",
         "yihad",
         "yod",
         "yodo",
@@ -42743,6 +42786,7 @@
         "dadaísta"
     ],
     "ddt": [
+        "ddt",
         "dedeté"
     ],
     "ddv": [
@@ -44710,6 +44754,9 @@
         "domiciliaria",
         "domiciliario"
     ],
+    "dmcls": [
+        "damocles"
+    ],
     "dmcn": [
         "damacena",
         "damaceno"
@@ -44949,6 +44996,7 @@
     ],
     "dmng": [
         "dominga",
+        "domingo",
         "domingo"
     ],
     "dmngd": [
@@ -45421,6 +45469,7 @@
         "adenia",
         "adiana",
         "adiano",
+        "adn",
         "adonio",
         "aduana",
         "adunia",
@@ -45428,18 +45477,21 @@
         "deán",
         "diana",
         "din",
+        "din",
         "dina",
         "dino",
         "dionea",
         "dioxina",
+        "dna",
+        "dni",
         "don",
         "dona",
         "doneo",
+        "down",
         "duna",
         "edén",
         "idónea",
         "idóneo",
-        "Leiden",
         "odeón"
     ],
     "dnbn": [
@@ -46241,7 +46293,7 @@
     ],
     "dp": [
         "dopa",
-        "Edipo"
+        "edipo"
     ],
     "dpc": [
         "edípica",
@@ -46830,6 +46882,7 @@
         "dorio",
         "drea",
         "dría",
+        "duero",
         "dura",
         "duro",
         "exaudir",
@@ -47049,8 +47102,7 @@
         "dríada",
         "dríade",
         "druida",
-        "hidróxido",
-        "Madrid"
+        "hidróxido"
     ],
     "drdbs": [
         "dardabasí"
@@ -48119,7 +48171,6 @@
         "odiosa",
         "odioso",
         "odisea",
-        "Rodas",
         "yidis"
     ],
     "dsbbdr": [
@@ -51454,6 +51505,7 @@
         "desajustar"
     ],
     "dsl": [
+        "adsl",
         "deshielo",
         "deshilo",
         "deslayo",
@@ -57618,7 +57670,9 @@
         "advocatorio"
     ],
     "dvd": [
-        "deviedo"
+        "david",
+        "deviedo",
+        "dvd"
     ],
     "dvdbl": [
         "dividible"
@@ -57699,6 +57753,7 @@
         "dovelaje"
     ],
     "dvlnt": [
+        "deo volente",
         "divalente"
     ],
     "dvlr": [
@@ -57808,7 +57863,7 @@
         "divinar"
     ],
     "dvnt": [
-        "Adviento",
+        "adviento",
         "adyuvante"
     ],
     "dvntc": [
@@ -58172,7 +58227,6 @@
     ],
     "f": [
         "efe",
-        "f",
         "fa",
         "fai",
         "fax",
@@ -60345,6 +60399,9 @@
     "flndr": [
         "filandria"
     ],
+    "flnds": [
+        "flandes"
+    ],
     "flng": [
         "falange",
         "falangia",
@@ -60414,6 +60471,7 @@
     ],
     "flp": [
         "falopa",
+        "falopio",
         "felipe",
         "felpa",
         "felpo",
@@ -60569,6 +60627,7 @@
         "florada",
         "floreado",
         "florida",
+        "florida",
         "florido",
         "fluorada",
         "fluorado"
@@ -60633,6 +60692,9 @@
         "florín",
         "florón",
         "fluorina"
+    ],
+    "flrnc": [
+        "florencia"
     ],
     "flrns": [
         "florense"
@@ -62674,6 +62736,7 @@
     "frg": [
         "faragua",
         "fraga",
+        "fraga",
         "fragua",
         "friega",
         "frigia",
@@ -63322,6 +63385,7 @@
         "fornáceo",
         "fornicio",
         "franca",
+        "francia",
         "francio",
         "franco",
         "froncia",
@@ -63584,6 +63648,9 @@
         "afrenillar",
         "frenillar"
     ],
+    "frnmbc": [
+        "fernambuco"
+    ],
     "frnmnt": [
         "fornimento",
         "fornimiento"
@@ -63669,6 +63736,7 @@
         "afrenta",
         "afruenta",
         "eferente",
+        "fahrenheit",
         "farinato",
         "feriante",
         "fernet",
@@ -64042,6 +64110,7 @@
         "fresia",
         "freso",
         "frisa",
+        "frisia",
         "frisia",
         "frisio",
         "friso",
@@ -65993,7 +66062,6 @@
         "ego",
         "exigua",
         "exiguo",
-        "g",
         "gay",
         "gaya",
         "gayo",
@@ -67509,6 +67577,7 @@
         "geóloga",
         "geología",
         "geólogo",
+        "golgi",
         "gulag"
     ],
     "glgc": [
@@ -68153,7 +68222,8 @@
         "galerón"
     ],
     "glrptr": [
-        "gloriapatri"
+        "gloriapatri",
+        "gloria patri"
     ],
     "glrr": [
         "agalerar",
@@ -68458,6 +68528,7 @@
     ],
     "gmb": [
         "gamba",
+        "gambia",
         "gamboa",
         "gambox",
         "gambux",
@@ -68925,7 +68996,7 @@
         "guanaco",
         "higiénica",
         "higiénico",
-        "Ignacio"
+        "ignacio"
     ],
     "gncc": [
         "gonococia",
@@ -69537,7 +69608,6 @@
         "agenesia",
         "agnosia",
         "agnus",
-        "agnus Dei",
         "agonías",
         "agoniosa",
         "agonioso",
@@ -69571,6 +69641,7 @@
         "gnéisico"
     ],
     "gnsd": [
+        "agnus dei",
         "agnusdéi",
         "gansada"
     ],
@@ -69793,6 +69864,7 @@
     ],
     "gnv": [
         "aguanieve",
+        "génova",
         "ignava",
         "ignavia",
         "ignavo"
@@ -69909,12 +69981,15 @@
     "gprs": [
         "guaperas"
     ],
+    "gps": [
+        "gps"
+    ],
     "gpsfl": [
         "gipsófila",
         "gipsófilo"
     ],
     "gpt": [
-        "Egipto",
+        "egipto",
         "guapota",
         "guapote"
     ],
@@ -69979,7 +70054,7 @@
         "ahogar",
         "augur",
         "augurio",
-        "Egeria",
+        "egeria",
         "eguar",
         "exigir",
         "gara",
@@ -70019,7 +70094,7 @@
         "gurú",
         "hégira",
         "higuera",
-        "Higuera",
+        "higuera",
         "higüero",
         "hogar",
         "hoguera",
@@ -70778,6 +70853,7 @@
         "garifa",
         "garifo",
         "garufa",
+        "graaf",
         "grafía",
         "grafio",
         "grafo",
@@ -70927,6 +71003,7 @@
     ],
     "grgj": [
         "gargajeo",
+        "gargajo",
         "gargajo",
         "gorgojo"
     ],
@@ -71402,7 +71479,7 @@
         "germanista"
     ],
     "grmnt": [
-        "Agramante",
+        "agramante",
         "agramente",
         "agriamente",
         "garamanta",
@@ -71844,7 +71921,8 @@
         "gironés",
         "gironesa",
         "granosa",
-        "granoso"
+        "granoso",
+        "guernesey"
     ],
     "grnsm": [
         "guaranismo"
@@ -72920,7 +72998,6 @@
         "ageusia",
         "aguosa",
         "aguoso",
-        "Chagas",
         "gas",
         "gasa",
         "geisha",
@@ -73181,6 +73258,7 @@
         "exégesis",
         "gaseosa",
         "gaseoso",
+        "gauss",
         "gauss",
         "guasasa",
         "guisaso"
@@ -73781,8 +73859,7 @@
     "gv": [
         "agave",
         "agovía",
-        "gavia",
-        "Segovia"
+        "gavia"
     ],
     "gvl": [
         "gavial"
@@ -74108,7 +74185,6 @@
         "hijo",
         "hoja",
         "ijiyo",
-        "j",
         "ja",
         "jai",
         "jau",
@@ -74120,7 +74196,6 @@
         "joyo",
         "ju",
         "juey",
-        "Loja",
         "ojeo",
         "ojo",
         "ujú"
@@ -74134,6 +74209,7 @@
         "jebe",
         "jibe",
         "jibia",
+        "job",
         "jobo",
         "juba",
         "jubo"
@@ -74581,6 +74657,7 @@
         "jaudo",
         "jeda",
         "joda",
+        "judea",
         "judía",
         "judío",
         "judo",
@@ -75194,6 +75271,7 @@
         "jambarse"
     ],
     "jmc": [
+        "jamaica",
         "jamaica"
     ],
     "jmcc": [
@@ -75251,6 +75329,9 @@
     "jmntl": [
         "jumental",
         "jumentil"
+    ],
+    "jmnz": [
+        "jiménez"
     ],
     "jmpl": [
         "ejemplo"
@@ -75382,8 +75463,7 @@
         "juan",
         "juana",
         "junio",
-        "ojén",
-        "Sajonia"
+        "ojén"
     ],
     "jnb": [
         "ajenabe",
@@ -75524,6 +75604,9 @@
     "jnjt": [
         "ojienjuta",
         "ojienjuto"
+    ],
+    "jnl": [
+        "juanelo"
     ],
     "jnll": [
         "juanillo"
@@ -75694,6 +75777,7 @@
         "ojiplático"
     ],
     "jpn": [
+        "japón",
         "japón",
         "japona",
         "jupón",
@@ -75880,6 +75964,7 @@
         "jarca",
         "jarcia",
         "jericaya",
+        "jericó",
         "jorco",
         "jurco"
     ],
@@ -76266,6 +76351,7 @@
         "jarosa",
         "jaroso",
         "jersey",
+        "jersey",
         "ojerosa",
         "ojeroso"
     ],
@@ -76291,6 +76377,9 @@
     "jrslmtn": [
         "jerosolimitana",
         "jerosolimitano"
+    ],
+    "jrsln": [
+        "jerusalén"
     ],
     "jrsprc": [
         "jurispericia"
@@ -76350,7 +76439,9 @@
         "hojosa",
         "hojoso",
         "jasa",
+        "jesé",
         "josa",
+        "josé",
         "joyosa",
         "jusi",
         "ojosa",
@@ -76361,6 +76452,9 @@
     ],
     "jsc": [
         "jisca"
+    ],
+    "jscrst": [
+        "jesucristo"
     ],
     "jsdr": [
         "jasador",
@@ -76408,6 +76502,9 @@
     "jsr": [
         "jasar",
         "josear"
+    ],
+    "jss": [
+        "jesús"
     ],
     "jssr": [
         "jesusear"
@@ -76659,6 +76756,7 @@
     "jv": [
         "java",
         "javo",
+        "jehová",
         "juvia",
         "ojiva"
     ],
@@ -76780,7 +76878,6 @@
     "k": [
         "haikai",
         "haiku",
-        "k",
         "ka",
         "kiwi",
         "wok",
@@ -76797,6 +76894,9 @@
     ],
     "kbtz": [
         "kibutz"
+    ],
+    "kch": [
+        "koch"
     ],
     "kd": [
         "aikido"
@@ -77142,7 +77242,6 @@
         "axial",
         "axil",
         "axila",
-        "Chile",
         "el",
         "él",
         "ele",
@@ -77167,7 +77266,6 @@
         "hule",
         "íleo",
         "ixil",
-        "l",
         "la",
         "laxa",
         "laxo",
@@ -77190,7 +77288,6 @@
         "olé",
         "óleo",
         "olio",
-        "Tolú",
         "ulua",
         "xola",
         "xolo",
@@ -77450,6 +77547,7 @@
         "albino",
         "lebení",
         "libán",
+        "líbano",
         "libón",
         "lobina",
         "lobuna",
@@ -77557,7 +77655,6 @@
         "albura",
         "alobar",
         "alubiar",
-        "Calabar",
         "elébor",
         "eléboro",
         "lábaro",
@@ -78283,6 +78380,7 @@
         "loica",
         "luca",
         "lucia",
+        "lucía",
         "lucio",
         "luco",
         "oleácea",
@@ -78646,7 +78744,7 @@
     ],
     "lcl": [
         "alacayuela",
-        "Alcalá",
+        "alcalá",
         "álcali",
         "alcohela",
         "alcohol",
@@ -79019,7 +79117,7 @@
     "lcnt": [
         "alcionito",
         "alicante",
-        "Alicante",
+        "alicante",
         "alicanto",
         "aliciente",
         "alicuanta",
@@ -79038,7 +79136,7 @@
     ],
     "lcntr": [
         "alcántara",
-        "Alcántara",
+        "alcántara",
         "alicántara",
         "alucinatoria",
         "alucinatorio",
@@ -79270,7 +79368,7 @@
     ],
     "lcrn": [
         "alacrán",
-        "Alcorán",
+        "alcorán",
         "alcurnia",
         "alecrín",
         "lucerna"
@@ -79532,7 +79630,7 @@
         "alicatar",
         "elector",
         "electora",
-        "Electra",
+        "electra",
         "electro",
         "electuario",
         "lactar",
@@ -79972,8 +80070,7 @@
         "oleado",
         "olida",
         "oxalídea",
-        "oxalídeo",
-        "Toledo"
+        "oxalídeo"
     ],
     "ldb": [
         "aldaba",
@@ -80102,6 +80199,7 @@
         "láudano",
         "ledanía",
         "ledón",
+        "leiden",
         "lidón",
         "lodón",
         "ludión"
@@ -80781,7 +80879,6 @@
         "elegio",
         "élego",
         "elogio",
-        "Golgi",
         "halago",
         "huelga",
         "huelgo",
@@ -81598,8 +81695,7 @@
         "alegato",
         "aligote",
         "holgueta",
-        "light",
-        "Vulgata"
+        "light"
     ],
     "lgtm": [
         "ilegítima",
@@ -81716,6 +81812,7 @@
         "lejío",
         "lija",
         "lijo",
+        "loja",
         "lujo",
         "oleaje"
     ],
@@ -81807,7 +81904,7 @@
         "lojano"
     ],
     "ljndr": [
-        "Alejandría"
+        "alejandría"
     ],
     "ljndrn": [
         "alejandrina",
@@ -82025,9 +82122,6 @@
     "lldd": [
         "lealdad"
     ],
-    "lldg": [
-        "Villadiego"
-    ],
     "lldl": [
         "alludel"
     ],
@@ -82095,7 +82189,6 @@
         "llagoso"
     ],
     "llj": [
-        "Calleja",
         "holleja",
         "hollejo",
         "llajua",
@@ -82175,7 +82268,7 @@
         "llamativo"
     ],
     "lln": [
-        "Allen",
+        "allen",
         "hollín",
         "huillín",
         "lailán",
@@ -82477,7 +82570,6 @@
         "olma",
         "olmo",
         "oxalme",
-        "Telmo",
         "ulema",
         "xilema",
         "yelmo"
@@ -82602,6 +82694,7 @@
         "alumbrada",
         "alumbrado",
         "lombarda",
+        "lombardía",
         "lombardo",
         "lumbrada"
     ],
@@ -82807,8 +82900,7 @@
         "lomuda",
         "lomudo",
         "olmeda",
-        "olmedo",
-        "Talmud"
+        "olmedo"
     ],
     "lmdd": [
         "almohadada",
@@ -83911,7 +84003,6 @@
         "alno",
         "alón",
         "alona",
-        "Ceilán",
         "elanio",
         "halón",
         "helena",
@@ -83947,7 +84038,6 @@
         "lona",
         "luna",
         "oleína",
-        "Polonia",
         "ulano",
         "ulna"
     ],
@@ -84190,7 +84280,6 @@
         "lendroso"
     ],
     "lnds": [
-        "Flandes",
         "holandés",
         "holandesa"
     ],
@@ -84589,7 +84678,6 @@
     ],
     "lns": [
         "alonso",
-        "Calaínos",
         "huilense",
         "iliense",
         "lanosa",
@@ -84855,10 +84943,11 @@
     ],
     "lp": [
         "elepé",
-        "Falopio",
         "lapa",
         "lapo",
+        "lepe",
         "lipa",
+        "lp",
         "lupa",
         "lupia",
         "ulpo"
@@ -85198,7 +85287,8 @@
         "leptospirosis"
     ],
     "lpz": [
-        "lápiz"
+        "lápiz",
+        "lópez"
     ],
     "lpzr": [
         "lapizar"
@@ -85515,7 +85605,6 @@
         "alarde",
         "alarida",
         "alarido",
-        "Florida",
         "larda",
         "lardo",
         "laureada",
@@ -85745,7 +85834,6 @@
         "lirón"
     ],
     "lrnc": [
-        "Florencia",
         "hialurónico",
         "lawrencio"
     ],
@@ -85875,8 +85963,7 @@
     ],
     "lrtr": [
         "alertar",
-        "alertear",
-        "Gloria Patri"
+        "alertear"
     ],
     "lrv": [
         "larva"
@@ -85920,7 +86007,6 @@
         "alosa",
         "ayalés",
         "ayalesa",
-        "Blas",
         "elísea",
         "elíseo",
         "elisia",
@@ -85931,7 +86017,6 @@
         "iluso",
         "lasa",
         "laso",
-        "laus Deo",
         "lesa",
         "leseo",
         "leso",
@@ -85942,6 +86027,7 @@
         "liso",
         "losa",
         "lúes",
+        "luis",
         "luis",
         "luisa",
         "lusa",
@@ -86014,10 +86100,12 @@
     "lsd": [
         "alisado",
         "aliseda",
+        "laus deo",
         "lisado",
         "lisiada",
         "lisiado",
-        "losado"
+        "losado",
+        "lsd"
     ],
     "lsdd": [
         "oleosidad"
@@ -86093,8 +86181,7 @@
         "lesna",
         "lisina",
         "losina",
-        "losino",
-        "Valsaín"
+        "losino"
     ],
     "lsnd": [
         "alesnada",
@@ -86182,7 +86269,6 @@
     ],
     "lss": [
         "alisios",
-        "Celsius",
         "heliosis",
         "lisis"
     ],
@@ -86456,7 +86542,6 @@
         "lútea",
         "lúteo",
         "luto",
-        "Malta",
         "olote",
         "oolito",
         "oxalato"
@@ -87322,9 +87407,6 @@
         "alterativa",
         "alterativo"
     ],
-    "ltrv": [
-        "Calatrava"
-    ],
     "ltrvld": [
         "ultraviolada",
         "ultraviolado"
@@ -87373,7 +87455,7 @@
         "latisueldo"
     ],
     "ltsm": [
-        "Altísimo",
+        "altísimo",
         "eleatismo",
         "elitismo",
         "ilotismo"
@@ -87470,8 +87552,7 @@
         "aletazo",
         "alteza",
         "lataz",
-        "latazo",
-        "Seltz"
+        "latazo"
     ],
     "ltzcn": [
         "elitización",
@@ -87954,7 +88035,7 @@
         "alzamiento"
     ],
     "lzmr": [
-        "Alzheimer",
+        "alzheimer",
         "alzhéimer"
     ],
     "lzn": [
@@ -88085,7 +88166,6 @@
     "lñs": [
         "aliñosa",
         "aliñoso",
-        "Calañas",
         "leñosa",
         "leñoso"
     ],
@@ -88098,6 +88178,7 @@
         "leñazo"
     ],
     "m": [
+        "am",
         "ama",
         "amá",
         "ami",
@@ -88106,7 +88187,6 @@
         "auyama",
         "axioma",
         "aymé",
-        "Bohemia",
         "eme",
         "emú",
         "eximia",
@@ -88115,7 +88195,6 @@
         "homo",
         "hum",
         "humo",
-        "m",
         "ma",
         "maya",
         "mayo",
@@ -88141,7 +88220,6 @@
         "ohm",
         "ohmio",
         "omeya",
-        "Roma",
         "yamao",
         "yema"
     ],
@@ -88151,8 +88229,6 @@
         "amebeo",
         "amiba",
         "amibo",
-        "Bamba",
-        "Gambia",
         "mabí",
         "mbayá",
         "ombú",
@@ -88819,8 +88895,7 @@
         "embreado",
         "hambreada",
         "hombrada",
-        "hombradía",
-        "Lombardía"
+        "hombradía"
     ],
     "mbrdd": [
         "hombredad"
@@ -89389,7 +89464,6 @@
         "hamaca",
         "húmica",
         "húmico",
-        "Jamaica",
         "maca",
         "macá",
         "maceo",
@@ -89401,6 +89475,7 @@
         "meca",
         "meco",
         "mexica",
+        "méxico",
         "mica",
         "mico",
         "moco",
@@ -89863,7 +89938,6 @@
         "macular"
     ],
     "mcls": [
-        "Damocles",
         "maculosa",
         "maculoso"
     ],
@@ -90500,6 +90574,9 @@
         "macetazo",
         "mecatazo"
     ],
+    "mctzm": [
+        "moctezuma"
+    ],
     "mcv": [
         "mocoví"
     ],
@@ -90963,6 +91040,7 @@
         "hamadríade",
         "maderada",
         "madreado",
+        "madrid",
         "moderada",
         "moderado"
     ],
@@ -92342,6 +92420,12 @@
     ],
     "mkd": [
         "mikado"
+    ],
+    "mkppr": [
+        "yom kippur"
+    ],
+    "mkpr": [
+        "yom kipur"
     ],
     "ml": [
         "ámala",
@@ -93929,6 +94013,7 @@
         "maleta",
         "maletía",
         "malta",
+        "malta",
         "melito",
         "melote",
         "mílite",
@@ -94931,7 +95016,7 @@
         "amín",
         "amina",
         "amino",
-        "Amón",
+        "amón",
         "amonio",
         "examen",
         "hemina",
@@ -95083,6 +95168,7 @@
         "manucodiata"
     ],
     "mnch": [
+        "mancha",
         "mancha",
         "manchú",
         "muncha",
@@ -95865,7 +95951,6 @@
         "menfítico"
     ],
     "mng": [
-        "Domingo",
         "managua",
         "managuá",
         "manga",
@@ -96185,6 +96270,7 @@
         "humanal",
         "mainel",
         "manal",
+        "manila",
         "manila",
         "manilo",
         "manola",
@@ -97665,6 +97751,7 @@
         "monitos",
         "montés",
         "montesa",
+        "montesa",
         "montosa",
         "montoso",
         "montuosa",
@@ -97779,7 +97866,6 @@
     ],
     "mnz": [
         "amenaza",
-        "Jiménez",
         "manazo",
         "menaza",
         "menuza",
@@ -98807,8 +98893,7 @@
     ],
     "mppr": [
         "empapar",
-        "empopar",
-        "Yom Kippur"
+        "empopar"
     ],
     "mpprs": [
         "empeparse",
@@ -98865,8 +98950,7 @@
         "impuro",
         "mapear",
         "mapire",
-        "mapuro",
-        "Yom Kipur"
+        "mapuro"
     ],
     "mprb": [
         "ímproba",
@@ -99649,9 +99733,6 @@
         "empastadora",
         "empastadura"
     ],
-    "mpstl": [
-        "Compostela"
-    ],
     "mpstld": [
         "empistolada",
         "empistolado"
@@ -100135,7 +100216,6 @@
         "muria",
         "muro",
         "omero",
-        "Réaumur",
         "umero"
     ],
     "mrb": [
@@ -100213,7 +100293,7 @@
         "amárica",
         "amárico",
         "américa",
-        "América",
+        "américa",
         "americio",
         "américo",
         "amurca",
@@ -100435,6 +100515,7 @@
         "morcajo"
     ],
     "mrcl": [
+        "marcial",
         "marcial",
         "márcola",
         "mercal",
@@ -100671,7 +100752,7 @@
         "mercerizar"
     ],
     "mrcs": [
-        "Américas"
+        "américas"
     ],
     "mrcscnt": [
         "marcescente"
@@ -100876,6 +100957,7 @@
         "amorfo",
         "marufia",
         "morfa",
+        "morfeo",
         "morfo"
     ],
     "mrfc": [
@@ -101089,6 +101171,9 @@
     "mrgrfc": [
         "hemerográfica",
         "hemerográfico"
+    ],
+    "mrgrgj": [
+        "marigargajo"
     ],
     "mrgrn": [
         "margarina"
@@ -102236,6 +102321,7 @@
         "marota",
         "marote",
         "marta",
+        "marta",
         "marte",
         "mérita",
         "mérito",
@@ -102692,8 +102778,7 @@
         "muso",
         "omaso",
         "omisa",
-        "omiso",
-        "Ramos"
+        "omiso"
     ],
     "msbl": [
         "omisible"
@@ -103246,6 +103331,9 @@
         "misionera",
         "misionero"
     ],
+    "msns": [
+        "misiones"
+    ],
     "msnsm": [
         "mesianismo",
         "misoneísmo"
@@ -103673,6 +103761,9 @@
     ],
     "mstlrll": [
         "mastelerillo"
+    ],
+    "mstls": [
+        "móstoles"
     ],
     "mstmnt": [
         "amesetamiento",
@@ -105454,6 +105545,9 @@
         "amuzgo",
         "humazga"
     ],
+    "mzgts": [
+        "mazagatos"
+    ],
     "mzl": [
         "maizal",
         "mazuelo",
@@ -105748,10 +105842,6 @@
         "axón",
         "ayuna",
         "ayuno",
-        "Bayona",
-        "Bona",
-        "Caín",
-        "Down",
         "en",
         "ene",
         "enea",
@@ -105771,7 +105861,6 @@
         "huna",
         "huno",
         "ion",
-        "n",
         "na",
         "nahoa",
         "nahua",
@@ -105783,11 +105872,11 @@
         "ni",
         "nía",
         "no",
+        "noé",
         "noxa",
         "noyó",
         "ona",
         "ónix",
-        "Rin",
         "una",
         "uno",
         "yana",
@@ -106091,7 +106180,6 @@
         "ancua",
         "axénica",
         "axénico",
-        "Cuenca",
         "encía",
         "eunuco",
         "hinco",
@@ -106107,7 +106195,6 @@
         "iónico",
         "naca",
         "naco",
-        "Nancy",
         "nauyaca",
         "necia",
         "necio",
@@ -106120,7 +106207,6 @@
         "uncia",
         "única",
         "único",
-        "Venecia",
         "xinca"
     ],
     "ncb": [
@@ -106554,14 +106640,12 @@
         "huehuenche",
         "huincha",
         "hunche",
-        "Mancha",
         "nacha",
         "nacho",
         "niche",
         "nicho",
         "noche",
         "nuche",
-        "Sancho",
         "wincha"
     ],
     "nchbl": [
@@ -106638,7 +106722,7 @@
         "enchagüitarse"
     ],
     "nchl": [
-        "Anchuelo"
+        "anchuelo"
     ],
     "nchld": [
         "enchilada",
@@ -106780,6 +106864,9 @@
     ],
     "nchv": [
         "anchova"
+    ],
+    "nchvj": [
+        "nochevieja"
     ],
     "nchvrs": [
         "enchivarse"
@@ -107089,7 +107176,6 @@
         "ancilario",
         "anclar",
         "anclear",
-        "Cancelaría",
         "encalar",
         "encelar",
         "encielar",
@@ -107127,6 +107213,9 @@
     "nclsc": [
         "neoclásica",
         "neoclásico"
+    ],
+    "nclscsm": [
+        "neoclasicismo"
     ],
     "nclsfcbl": [
         "inclasificable"
@@ -109496,7 +109585,6 @@
         "anda",
         "anidio",
         "ánodo",
-        "Canadá",
         "ende",
         "enhado",
         "enodio",
@@ -109509,7 +109597,7 @@
         "inda",
         "índex",
         "india",
-        "India",
+        "india",
         "indio",
         "indo",
         "inedia",
@@ -110524,7 +110612,6 @@
         "nidrio",
         "ondear",
         "ondra",
-        "Pandora",
         "unidor",
         "unidora"
     ],
@@ -110720,7 +110807,7 @@
         "endorreísmo"
     ],
     "ndrs": [
-        "Andrés",
+        "andrés",
         "endorso"
     ],
     "ndrsm": [
@@ -111211,7 +111298,8 @@
         "anafaya",
         "anafe",
         "naíf",
-        "naife"
+        "naife",
+        "nif"
     ],
     "nfb": [
         "anfibia",
@@ -112489,7 +112577,7 @@
         "niego",
         "nigua",
         "oenegé",
-        "Rengo",
+        "ong",
         "yang",
         "yunga"
     ],
@@ -112647,7 +112735,7 @@
     "ngl": [
         "ángel",
         "ángela",
-        "Ángela",
+        "ángela",
         "angla",
         "anglo",
         "anguila",
@@ -112871,9 +112959,6 @@
     "nglndrnr": [
         "engolondrinar"
     ],
-    "nglng": [
-        "Pange lingua"
-    ],
     "nglnr": [
         "engalanar"
     ],
@@ -112957,7 +113042,7 @@
         "ingletear"
     ],
     "ngltrr": [
-        "Inglaterra"
+        "inglaterra"
     ],
     "nglttv": [
         "englutativa",
@@ -113582,9 +113667,6 @@
     "ngrttd": [
         "ingratitud"
     ],
-    "ngrv": [
-        "Congreve"
-    ],
     "ngrvcr": [
         "engravecer"
     ],
@@ -114122,7 +114204,7 @@
     "njs": [
         "enojosa",
         "enojoso",
-        "Hinojosa"
+        "hinojosa"
     ],
     "njsmnt": [
         "enojosamente"
@@ -114193,8 +114275,6 @@
         "énula",
         "henal",
         "henil",
-        "Juanelo",
-        "Manila",
         "nial",
         "niel",
         "nolí",
@@ -115866,6 +115946,7 @@
         "neón",
         "nihonio",
         "nin",
+        "nn",
         "non",
         "nona",
         "noni",
@@ -115904,6 +115985,7 @@
         "anuncia",
         "anuncio",
         "nance",
+        "nancy",
         "neneca",
         "neneco",
         "noneca",
@@ -116922,7 +117004,6 @@
         "noray",
         "noria",
         "nuera",
-        "Pinar",
         "unir"
     ],
     "nrb": [
@@ -119063,7 +119144,6 @@
         "insurrecto"
     ],
     "nsrs": [
-        "Buenos Aires",
         "enseres"
     ],
     "nsrt": [
@@ -119306,9 +119386,6 @@
     ],
     "nstntnmnt": [
         "instantáneamente"
-    ],
-    "nstntnpl": [
-        "Constantinopla"
     ],
     "nstntv": [
         "instintiva",
@@ -119593,7 +119670,6 @@
         "onoto",
         "onto",
         "oyente",
-        "Pinto",
         "uniata",
         "unto",
         "yanta",
@@ -120074,9 +120150,6 @@
     ],
     "ntcstrst": [
         "anticastrista"
-    ],
-    "ntcsts": [
-        "Pentecostés"
     ],
     "ntct": [
         "intacta",
@@ -120697,7 +120770,7 @@
         "entallar"
     ],
     "ntlls": [
-        "Antillas"
+        "antillas"
     ],
     "ntlmbd": [
         "antilambda"
@@ -121014,9 +121087,6 @@
         "antemeridiano",
         "antimeridiano"
     ],
-    "ntmrg": [
-        "Tantum ergo"
-    ],
     "ntmrl": [
         "antemural",
         "antimoral"
@@ -121095,8 +121165,8 @@
         "antana",
         "antena",
         "anteón",
-        "Antón",
-        "Antonio",
+        "antón",
+        "antonio",
         "entena",
         "entono",
         "hontana",
@@ -121106,7 +121176,6 @@
         "newton",
         "nitaíno",
         "ontina",
-        "Quintín",
         "wantán",
         "xantina"
     ],
@@ -123766,7 +123835,6 @@
     "nts": [
         "anexitis",
         "antes",
-        "Montesa",
         "notas",
         "untosa",
         "untoso",
@@ -124223,7 +124291,6 @@
     "nv": [
         "anavia",
         "envío",
-        "Génova",
         "nava",
         "nave",
         "navío",
@@ -125140,8 +125207,8 @@
         "univitelina",
         "univitelino"
     ],
-    "nvtnrv": [
-        "invita Minerva"
+    "nvtmnrv": [
+        "invita minerva"
     ],
     "nvtr": [
         "invitar",
@@ -125182,8 +125249,7 @@
         "niazo",
         "nuez",
         "nueza",
-        "onza",
-        "Túnez"
+        "onza"
     ],
     "nzcn": [
         "ionización"
@@ -125197,8 +125263,7 @@
     ],
     "nzl": [
         "anzuelo",
-        "názula",
-        "Venezuela"
+        "názula"
     ],
     "nzlmr": [
         "enzalamar"
@@ -125324,7 +125389,6 @@
         "apio",
         "apoyo",
         "aúpa",
-        "Chiapa",
         "epa",
         "epo",
         "epoxi",
@@ -125335,10 +125399,8 @@
         "hopeo",
         "hopo",
         "hupe",
-        "Lepe",
         "opa",
         "opio",
-        "p",
         "pa",
         "pao",
         "paya",
@@ -125347,8 +125409,7 @@
         "payo",
         "pe",
         "pea",
-        "Pepa",
-        "pH",
+        "ph",
         "pi",
         "pía",
         "pie",
@@ -125383,6 +125444,7 @@
     ],
     "pbl": [
         "pabilo",
+        "pablo",
         "pábulo",
         "pibil",
         "puebla",
@@ -125598,6 +125660,7 @@
         "época",
         "hípica",
         "hípico",
+        "ipc",
         "opaca",
         "opaco",
         "opiácea",
@@ -125619,6 +125682,7 @@
         "pícea",
         "píceo",
         "picia",
+        "picio",
         "pico",
         "picú",
         "picuy",
@@ -126363,6 +126427,7 @@
         "pacayar",
         "pacer",
         "pacora",
+        "pcr",
         "pecar",
         "pecarí",
         "pecera",
@@ -129366,7 +129431,6 @@
     "pln": [
         "apolínea",
         "apolíneo",
-        "Caplán",
         "epulón",
         "opalina",
         "opalino",
@@ -129402,6 +129466,7 @@
         "polen",
         "polín",
         "polona",
+        "polonia",
         "polonio",
         "polono"
     ],
@@ -131497,7 +131562,6 @@
     ],
     "pn": [
         "apnea",
-        "Japón",
         "paina",
         "pan",
         "pana",
@@ -131974,6 +132038,7 @@
         "pandeiro",
         "pandera",
         "pandero",
+        "pandora",
         "pandura",
         "peinador",
         "peinadora",
@@ -132176,6 +132241,9 @@
     "pngln": [
         "pangelín",
         "pangolín"
+    ],
+    "pnglng": [
+        "pange lingua"
     ],
     "pnglsn": [
         "panglosiana",
@@ -132437,7 +132505,8 @@
         "peniano",
         "penino",
         "pinna",
-        "pionono"
+        "pionono",
+        "pnn"
     ],
     "pnnc": [
         "ponencia"
@@ -132549,6 +132618,7 @@
         "penuria",
         "peonería",
         "peonero",
+        "pinar",
         "pinar",
         "pinera",
         "pinero",
@@ -132793,6 +132863,7 @@
         "pinito",
         "pinta",
         "pinto",
+        "pinto",
         "ponto",
         "puente",
         "puenteo",
@@ -132844,6 +132915,9 @@
     ],
     "pntcstl": [
         "pentecostal"
+    ],
+    "pntcsts": [
+        "pentecostés"
     ],
     "pntd": [
         "apuntada",
@@ -133444,6 +133518,7 @@
         "papo",
         "papú",
         "papúa",
+        "pepa",
         "pepa",
         "pepe",
         "pepú",
@@ -134765,6 +134840,10 @@
     "prclsv": [
         "preclusiva",
         "preclusivo"
+    ],
+    "prclt": [
+        "paracleto",
+        "paráclito"
     ],
     "prcltc": [
         "proclítica",
@@ -136540,6 +136619,9 @@
     "prgrfr": [
         "pirografiar"
     ],
+    "prgrll": [
+        "perogrullo"
+    ],
     "prgrlld": [
         "perogrullada"
     ],
@@ -136801,6 +136883,7 @@
         "parking"
     ],
     "prknsn": [
+        "parkinson",
         "párkinson"
     ],
     "prknsnn": [
@@ -138151,6 +138234,9 @@
         "paronimia",
         "parónimo"
     ],
+    "prnmbc": [
+        "pernambuco"
+    ],
     "prnmbr": [
         "prenombre",
         "pronombre"
@@ -139459,6 +139545,7 @@
         "paresa",
         "paresia",
         "parias",
+        "parís",
         "parsi",
         "parusía",
         "persa",
@@ -139474,7 +139561,8 @@
         "prisa",
         "proís",
         "prosa",
-        "proseo"
+        "proseo",
+        "prusia"
     ],
     "prsbc": [
         "presbicia"
@@ -139800,6 +139888,7 @@
         "prasma",
         "prisma",
         "prosimio",
+        "purísima",
         "purismo"
     ],
     "prsmbl": [
@@ -141011,6 +141100,9 @@
     "prtln": [
         "portalón",
         "portulano"
+    ],
+    "prtlnd": [
+        "pórtland"
     ],
     "prtlpz": [
         "portalápiz"
@@ -144085,6 +144177,7 @@
         "pauta",
         "pauto",
         "paxte",
+        "pet",
         "peto",
         "peyote",
         "pita",
@@ -144811,6 +144904,7 @@
         "petra",
         "pétrea",
         "pétreo",
+        "petri",
         "peyotera",
         "peyotero",
         "pitar",
@@ -145184,6 +145278,9 @@
     "ptrscnt": [
         "putrescente"
     ],
+    "ptrsncncts": [
+        "petrus in cunctis"
+    ],
     "ptrss": [
         "pitiriasis",
         "ptiriasis"
@@ -145437,6 +145534,9 @@
         "pavía",
         "pavo"
     ],
+    "pvc": [
+        "pvc"
+    ],
     "pvcr": [
         "expavecer"
     ],
@@ -145552,7 +145652,6 @@
         "pavezno"
     ],
     "pz": [
-        "López",
         "paz",
         "pazo",
         "pez",
@@ -145850,6 +145949,9 @@
         "puñera",
         "puñir"
     ],
+    "pñrnd": [
+        "peñaranda"
+    ],
     "pñrr": [
         "peñerar"
     ],
@@ -145923,7 +146025,6 @@
         "ex aequo",
         "hoque",
         "oque",
-        "q",
         "qu",
         "que",
         "qué",
@@ -145932,7 +146033,6 @@
         "quia",
         "quía",
         "quío",
-        "Roque",
         "yaqué",
         "yaqui",
         "yóquey",
@@ -146063,7 +146163,8 @@
         "equeco",
         "queco",
         "quiaca",
-        "quicio"
+        "quicio",
+        "quico"
     ],
     "qch": [
         "queche",
@@ -146429,7 +146530,7 @@
         "aquelarre"
     ],
     "qls": [
-        "Aquiles",
+        "aquiles",
         "quilosa",
         "quiloso"
     ],
@@ -146855,6 +146956,7 @@
     ],
     "qntn": [
         "quintana",
+        "quintín",
         "quintín"
     ],
     "qntnl": [
@@ -147577,8 +147679,6 @@
         "ayer",
         "ayorea",
         "ayoreo",
-        "Coria",
-        "Duero",
         "eirá",
         "era",
         "ere",
@@ -147611,7 +147711,6 @@
         "oroya",
         "oxear",
         "oxiuro",
-        "r",
         "ra",
         "rai",
         "raya",
@@ -147622,6 +147721,7 @@
         "rehoyo",
         "reo",
         "rey",
+        "rh",
         "ria",
         "ría",
         "río",
@@ -147631,7 +147731,6 @@
         "royo",
         "rúa",
         "rúe",
-        "Troya",
         "ura",
         "urao",
         "urea",
@@ -147733,7 +147832,8 @@
         "rabicana",
         "rabicano",
         "rubicán",
-        "rubicana"
+        "rubicana",
+        "rubicón"
     ],
     "rbcnd": [
         "rubicunda",
@@ -148196,7 +148296,6 @@
         "árbor",
         "arbórea",
         "arbóreo",
-        "Bárbara",
         "euríbor",
         "harbar",
         "herbar",
@@ -148379,7 +148478,6 @@
     ],
     "rbs": [
         "aerobús",
-        "Cribas",
         "herbosa",
         "herboso",
         "orobias",
@@ -148761,7 +148859,6 @@
         "huerca",
         "huerco",
         "huraco",
-        "Jericó",
         "orca",
         "orco",
         "raco",
@@ -149375,7 +149472,6 @@
         "heracleo",
         "hercúlea",
         "hercúleo",
-        "Marcial",
         "oráculo",
         "racel",
         "racial",
@@ -149482,7 +149578,6 @@
         "reclamar"
     ],
     "rcln": [
-        "Barcelona",
         "herculana",
         "herculano",
         "herculina",
@@ -149533,8 +149628,6 @@
         "reclusorio"
     ],
     "rclt": [
-        "Paracleto",
-        "Paráclito",
         "recluta",
         "recoleta",
         "recoleto"
@@ -151278,7 +151371,6 @@
     ],
     "rdn": [
         "aerodino",
-        "Cardona",
         "herediana",
         "herediano",
         "herodiana",
@@ -151617,7 +151709,9 @@
         "herodes",
         "radiosa",
         "radioso",
+        "rdsi",
         "rediós",
+        "rodas",
         "ruidosa",
         "ruidoso"
     ],
@@ -151834,8 +151928,6 @@
         "ordeñar"
     ],
     "rf": [
-        "Graaf",
-        "Morfeo",
         "orfo",
         "rafa",
         "rafe",
@@ -152466,7 +152558,6 @@
         "ergo",
         "exergía",
         "exergo",
-        "Fraga",
         "orgía",
         "oruga",
         "raga",
@@ -152603,7 +152694,6 @@
         "reggae"
     ],
     "rgj": [
-        "Gargajo",
         "regajo",
         "regojo"
     ],
@@ -152884,7 +152974,7 @@
         "ergométrico"
     ],
     "rgn": [
-        "Aragón",
+        "aragón",
         "araguaney",
         "argán",
         "árgana",
@@ -153245,9 +153335,6 @@
     "rgrfr": [
         "xerografiar"
     ],
-    "rgrgj": [
-        "Marigargajo"
-    ],
     "rgrgll": [
         "regorgalla"
     ],
@@ -153259,9 +153346,6 @@
     ],
     "rgrjrs": [
         "regorjarse"
-    ],
-    "rgrll": [
-        "Perogrullo"
     ],
     "rgrm": [
         "aerograma"
@@ -153323,7 +153407,6 @@
     "rgs": [
         "argos",
         "arugas",
-        "Burgos",
         "ragusea",
         "raguseo",
         "rugosa",
@@ -153378,7 +153461,6 @@
         "araguata",
         "araguato",
         "argot",
-        "Bright",
         "hurguete",
         "regata",
         "regate",
@@ -153578,7 +153660,6 @@
         "rejileto"
     ],
     "rjn": [
-        "Briján",
         "orejana",
         "orejano",
         "orejón",
@@ -153687,9 +153768,6 @@
         "raki",
         "york"
     ],
-    "rknsn": [
-        "Parkinson"
-    ],
     "rkr": [
         "harakiri"
     ],
@@ -153744,7 +153822,6 @@
         "rula",
         "rulé",
         "rulo",
-        "Varolio",
         "yeral"
     ],
     "rlbr": [
@@ -154358,6 +154435,7 @@
         "rima",
         "rimú",
         "roma",
+        "roma",
         "romea",
         "romeo",
         "romí",
@@ -154840,7 +154918,7 @@
     ],
     "rmn": [
         "armenia",
-        "Armenia",
+        "armenia",
         "armenio",
         "arminio",
         "armón",
@@ -155321,6 +155399,7 @@
         "ramero",
         "ramiro",
         "reamar",
+        "réaumur",
         "remar",
         "remera",
         "remero",
@@ -155397,6 +155476,7 @@
         "hermoso",
         "oremus",
         "ormesí",
+        "ramos",
         "ramosa",
         "ramoso",
         "remasa",
@@ -155641,15 +155721,15 @@
     ],
     "rn": [
         "airón",
-        "Airón",
+        "airón",
         "arán",
         "arana",
         "arena",
         "ariana",
         "ariano",
+        "arn",
         "arna",
         "aron",
-        "Corán",
         "erina",
         "erinia",
         "exorno",
@@ -155692,6 +155772,8 @@
         "reyuna",
         "reyuno",
         "rin",
+        "rin",
+        "rna",
         "roana",
         "roano",
         "ron",
@@ -155719,7 +155801,6 @@
         "arenácea",
         "arenáceo",
         "árnica",
-        "Francia",
         "herencia",
         "hérnica",
         "hérnico",
@@ -156112,6 +156193,7 @@
         "rangua",
         "renga",
         "rengo",
+        "rengo",
         "reniego",
         "ring",
         "runga",
@@ -156279,10 +156361,6 @@
     "rnm": [
         "oronimia",
         "orónimo"
-    ],
-    "rnmbc": [
-        "Fernambuco",
-        "Pernambuco"
     ],
     "rnmbr": [
         "renombre"
@@ -156485,7 +156563,6 @@
         "arenoso",
         "arnés",
         "auriense",
-        "Guernesey",
         "harense",
         "harinosa",
         "harinoso",
@@ -156553,8 +156630,6 @@
         "aeronato",
         "aeronauta",
         "arnaúte",
-        "Corinto",
-        "Fahrenheit",
         "hiriente",
         "orante",
         "oriente",
@@ -156786,7 +156861,7 @@
         "arpía",
         "arupo",
         "euripo",
-        "Europa",
+        "europa",
         "europea",
         "europeo",
         "europio",
@@ -156912,6 +156987,9 @@
     ],
     "rpdz": [
         "rapidez"
+    ],
+    "rpf": [
+        "irpf"
     ],
     "rpg": [
         "areópago",
@@ -157536,7 +157614,6 @@
         "reparativo"
     ],
     "rps": [
-        "Corpus",
         "haraposa",
         "haraposo",
         "herpes",
@@ -157790,6 +157867,7 @@
         "huarique",
         "iraquí",
         "raque",
+        "roque",
         "roque"
     ],
     "rqbctr": [
@@ -157885,7 +157963,7 @@
         "requemado"
     ],
     "rqmds": [
-        "Arquímedes"
+        "arquímedes"
     ],
     "rqmmnt": [
         "requemamiento"
@@ -158323,9 +158401,6 @@
     ],
     "rrcb": [
         "arrocabe"
-    ],
-    "rrcc": [
-        "Carracuca"
     ],
     "rrcch": [
         "arracacha",
@@ -159214,9 +159289,6 @@
     "rrntr": [
         "reorientar"
     ],
-    "rrnv": [
-        "Terranova"
-    ],
     "rrnzr": [
         "arronzar"
     ],
@@ -159423,7 +159495,7 @@
         "ahorrosa",
         "ahorroso",
         "arras",
-        "Arrás"
+        "arrás"
     ],
     "rrsbl": [
         "irrisible"
@@ -159808,13 +159880,9 @@
         "arasá",
         "aries",
         "eros",
-        "Frisia",
         "haras",
         "iris",
-        "Jersey",
         "órsay",
-        "París",
-        "Prusia",
         "rais",
         "ras",
         "rasa",
@@ -159839,7 +159907,7 @@
         "rusa",
         "rusia",
         "ruso",
-        "Urías",
+        "urías",
         "yérsey",
         "yersi",
         "yuras"
@@ -160274,7 +160342,6 @@
     ],
     "rsl": [
         "aerosol",
-        "Brasil",
         "rasel",
         "resol",
         "resoli",
@@ -160336,7 +160403,6 @@
         "hierosolimitano"
     ],
     "rsln": [
-        "Jerusalén",
         "oreoselino",
         "resolana",
         "resolano",
@@ -160354,7 +160420,6 @@
         "rosalera"
     ],
     "rsls": [
-        "Bruselas",
         "rasoliso"
     ],
     "rslt": [
@@ -160424,7 +160489,6 @@
     ],
     "rsm": [
         "heroísmo",
-        "Purísima",
         "rasmia",
         "resma"
     ],
@@ -161540,7 +161604,6 @@
         "huerta",
         "huerto",
         "hurto",
-        "Marta",
         "orate",
         "orto",
         "rata",
@@ -161557,6 +161620,7 @@
         "rite",
         "rito",
         "roete",
+        "rota",
         "rota",
         "roto",
         "ruta",
@@ -161981,9 +162045,6 @@
     ],
     "rtlnc": [
         "rutilancia"
-    ],
-    "rtlnd": [
-        "Pórtland"
     ],
     "rtlnt": [
         "rutilante"
@@ -162793,8 +162854,7 @@
         "retasa",
         "reteso",
         "rotosa",
-        "rotoso",
-        "Tortis"
+        "rotoso"
     ],
     "rtscn": [
         "retasación"
@@ -162939,7 +162999,7 @@
         "erotizante"
     ],
     "rtzntz": [
-        "Ertzaintza"
+        "ertzaintza"
     ],
     "rtzr": [
         "artizar",
@@ -162970,7 +163030,6 @@
         "aravico",
         "arévaca",
         "arévaco",
-        "Caravaca",
         "revoco"
     ],
     "rvcbl": [
@@ -163514,7 +163573,6 @@
     ],
     "rz": [
         "arazá",
-        "Bierzo",
         "eriaza",
         "eriazo",
         "eriza",
@@ -163833,9 +163891,9 @@
         "así",
         "axis",
         "ayuso",
-        "Casio",
         "esa",
         "ese",
+        "eso",
         "eso",
         "hasio",
         "house",
@@ -163845,9 +163903,7 @@
         "hueso",
         "huso",
         "isa",
-        "Jesé",
-        "José",
-        "Luis",
+        "iso",
         "os",
         "osa",
         "ósea",
@@ -163901,7 +163957,8 @@
         "suaba",
         "suabo",
         "suba",
-        "subeo"
+        "subeo",
+        "usb"
     ],
     "sbbj": [
         "subibaja"
@@ -164447,6 +164504,7 @@
         "submarinista"
     ],
     "sbn": [
+        "isbn",
         "sabana",
         "sábana",
         "sabaneo",
@@ -165923,7 +165981,7 @@
     ],
     "scc": [
         "escocia",
-        "Escocia"
+        "escocia"
     ],
     "sccd": [
         "escacada",
@@ -166319,7 +166377,7 @@
         "escalo",
         "escayola",
         "escila",
-        "Escila",
+        "escila",
         "escólex",
         "escolio",
         "escualo",
@@ -167485,7 +167543,7 @@
         "escuro",
         "escuyer",
         "óscar",
-        "Óscar",
+        "óscar",
         "oscura",
         "oscuro",
         "sacar",
@@ -168061,7 +168119,6 @@
         "sacrosantamente"
     ],
     "scrst": [
-        "Jesucristo",
         "sacrista",
         "sacristía",
         "secresto"
@@ -169812,6 +169869,9 @@
         "sagitariana",
         "sagitariano"
     ],
+    "sgv": [
+        "segovia"
+    ],
     "sgvn": [
         "segoviana",
         "segoviano"
@@ -169866,7 +169926,8 @@
     "sjn": [
         "sajino",
         "sajón",
-        "sajona"
+        "sajona",
+        "sajonia"
     ],
     "sjr": [
         "sajar",
@@ -170837,7 +170898,7 @@
         "silenciosamente"
     ],
     "slnd": [
-        "Islandia",
+        "islandia",
         "solenoide"
     ],
     "slndc": [
@@ -171347,6 +171408,9 @@
     "sltv": [
         "solutiva",
         "solutivo"
+    ],
+    "sltz": [
+        "seltz"
     ],
     "sltñ": [
         "salteña",
@@ -171906,7 +171970,6 @@
     ],
     "smd": [
         "asomada",
-        "Cuasimodo",
         "sahumada",
         "sahumado",
         "samoyeda",
@@ -172731,6 +172794,7 @@
         "semis",
         "siamés",
         "siamesa",
+        "sms",
         "sumisa",
         "sumiso"
     ],
@@ -173013,6 +173077,7 @@
         "asnacho",
         "asnaúcho",
         "sancha",
+        "sancho",
         "sancho",
         "soniche",
         "suncho",
@@ -174076,7 +174141,6 @@
     "sns": [
         "asensio",
         "asenso",
-        "Misiones",
         "sanies",
         "saniosa",
         "sanioso",
@@ -175890,7 +175954,7 @@
     ],
     "spns": [
         "espinosa",
-        "Espinosa",
+        "espinosa",
         "espinoso"
     ],
     "spnscnt": [
@@ -177197,7 +177261,7 @@
         "hisopazo"
     ],
     "spñ": [
-        "España",
+        "españa",
         "sopeña"
     ],
     "spñl": [
@@ -178834,10 +178898,8 @@
     ],
     "ss": [
         "asuso",
-        "Gauss",
         "huesosa",
         "huesoso",
-        "Jesús",
         "oasis",
         "ososa",
         "ososo",
@@ -179080,6 +179142,7 @@
     "ssn": [
         "asesina",
         "asesino",
+        "issn",
         "seisén",
         "seisena",
         "seiseno",
@@ -179731,7 +179794,7 @@
         "sietecallero"
     ],
     "stclm": [
-        "Estocolmo"
+        "estocolmo"
     ],
     "stclrs": [
         "sietecolores"
@@ -180234,8 +180297,7 @@
     ],
     "stls": [
         "estilosa",
-        "estiloso",
-        "Móstoles"
+        "estiloso"
     ],
     "stlsm": [
         "estilismo"
@@ -180886,7 +180948,7 @@
         "estoque",
         "estoqueo",
         "estuque",
-        "Eustaquio"
+        "eustaquio"
     ],
     "stqdr": [
         "estaqueadero",
@@ -181412,7 +181474,6 @@
     "strl": [
         "astral",
         "austral",
-        "Cástor y Pólux",
         "esteral",
         "estéril",
         "esterol",
@@ -182358,6 +182419,7 @@
         "soeza",
         "suazi",
         "suiza",
+        "suiza",
         "suizo"
     ],
     "szg": [
@@ -182563,12 +182625,9 @@
         "iota",
         "oto",
         "oxte",
-        "Rota",
-        "t",
         "ta",
         "taha",
         "tao",
-        "Tato",
         "tau",
         "taxi",
         "tayo",
@@ -183029,6 +183088,9 @@
     "tbsñ": [
         "toboseña",
         "toboseño"
+    ],
+    "tbt": [
+        "tíbet"
     ],
     "tbtn": [
         "tibetana",
@@ -183612,9 +183674,6 @@
     ],
     "tcrvn": [
         "autocaravana"
-    ],
-    "tcs": [
-        "Batuecas"
     ],
     "tcslv": [
         "tocasalva"
@@ -184358,7 +184417,7 @@
         "hotel",
         "huautli",
         "ítala",
-        "Italia",
+        "italia",
         "ítalo",
         "tael",
         "tahalí",
@@ -184382,6 +184441,7 @@
         "tol",
         "tola",
         "tole",
+        "tolú",
         "tul",
         "tula",
         "tule",
@@ -184514,7 +184574,8 @@
         "taled",
         "talud",
         "tilde",
-        "toldo"
+        "toldo",
+        "toledo"
     ],
     "tldct": [
         "teleadicta",
@@ -184850,12 +184911,16 @@
     "tlm": [
         "tálamo",
         "talma",
+        "telmo",
         "tilma",
         "tolmo"
     ],
     "tlmc": [
         "tolomuco",
         "tulumuco"
+    ],
+    "tlmd": [
+        "talmud"
     ],
     "tlmdc": [
         "talmúdica",
@@ -187284,6 +187349,7 @@
         "tinta",
         "tinte",
         "tinto",
+        "tnt",
         "tonta",
         "tonteo",
         "tonto",
@@ -187402,6 +187468,9 @@
     ],
     "tntmp": [
         "tentempié"
+    ],
+    "tntmrg": [
+        "tantum ergo"
     ],
     "tntmz": [
         "tentemozo"
@@ -187524,7 +187593,8 @@
     "tnz": [
         "tanza",
         "tenaz",
-        "tenaza"
+        "tenaza",
+        "túnez"
     ],
     "tnzd": [
         "atenazada",
@@ -187558,7 +187628,7 @@
         "etapa",
         "etíope",
         "etiopia",
-        "Etiopía",
+        "etiopía",
         "etiopio",
         "etopeya",
         "taipa",
@@ -188346,7 +188416,6 @@
         "otre",
         "otri",
         "otro",
-        "Petri",
         "tahúr",
         "taira",
         "taire",
@@ -188377,6 +188446,7 @@
         "trío",
         "trox",
         "troy",
+        "troya",
         "true",
         "tuera",
         "tuero",
@@ -192867,6 +192937,9 @@
         "torrentoso",
         "torrontés"
     ],
+    "trrnv": [
+        "terranova"
+    ],
     "trrnz": [
         "terronazo"
     ],
@@ -193497,9 +193570,6 @@
     ],
     "trsnchr": [
         "trasnochar"
-    ],
-    "trsncncts": [
-        "Petrus in cunctis"
     ],
     "trsndr": [
         "extorsionador",
@@ -194203,6 +194273,7 @@
     "trts": [
         "tartesia",
         "tartesio",
+        "tortis",
         "tortuosa",
         "tortuoso"
     ],
@@ -194520,6 +194591,7 @@
     ],
     "ts": [
         "ahotas",
+        "ats",
         "etesio",
         "ethos",
         "etusa",
@@ -195048,6 +195120,7 @@
         "tata",
         "tatay",
         "tate",
+        "tato",
         "tato",
         "tatú",
         "tauteo",
@@ -195601,7 +195674,6 @@
     "tv": [
         "atavío",
         "autovía",
-        "Batavia",
         "tova"
     ],
     "tvc": [
@@ -195801,6 +195873,7 @@
     ],
     "v": [
         "ave",
+        "ave",
         "avío",
         "avo",
         "evo",
@@ -195811,20 +195884,21 @@
         "hove",
         "hueva",
         "huevo",
-        "Jehová",
+        "iva",
         "ova",
         "ovia",
         "ovio",
         "ovo",
         "uva",
+        "uva",
         "uve",
         "úvea",
         "uvi",
-        "v",
         "vaho",
         "vaya",
         "ve",
-        "vía"
+        "vía",
+        "vih"
     ],
     "vbl": [
         "viable"
@@ -196186,7 +196260,8 @@
     "vcnt": [
         "evacuante",
         "vacante",
-        "vaciante"
+        "vaciante",
+        "vicente"
     ],
     "vcntn": [
         "vicentina",
@@ -196378,7 +196453,6 @@
         "aviado",
         "ávida",
         "ávido",
-        "David",
         "huevada",
         "ovada",
         "ovado",
@@ -196391,6 +196465,7 @@
         "vadeo",
         "vado",
         "vahído",
+        "veda",
         "veda",
         "viada",
         "vid",
@@ -197309,6 +197384,9 @@
     "vlgs": [
         "valgus"
     ],
+    "vlgt": [
+        "vulgata"
+    ],
     "vlj": [
         "valija",
         "velaje"
@@ -197346,6 +197424,9 @@
         "vellido",
         "velluda",
         "velludo"
+    ],
+    "vlldg": [
+        "villadiego"
     ],
     "vlldll": [
         "velludillo"
@@ -197651,7 +197732,6 @@
         "violinístico"
     ],
     "vlnt": [
-        "Deo volente",
         "valentía",
         "valiente",
         "violenta",
@@ -197920,7 +198000,8 @@
     "vlsn": [
         "avilesina",
         "avilesino",
-        "avulsión"
+        "avulsión",
+        "valsaín"
     ],
     "vlsnls": [
         "velis nolis"
@@ -198246,6 +198327,7 @@
         "aveníceo",
         "aviónica",
         "vainica",
+        "venecia",
         "vinca",
         "vinco",
         "vínica",
@@ -199132,6 +199214,9 @@
     "vnzdll": [
         "avanzadilla"
     ],
+    "vnzl": [
+        "venezuela"
+    ],
     "vnzln": [
         "venezolana",
         "venezolano"
@@ -199300,6 +199385,7 @@
         "uviar",
         "vahar",
         "vahear",
+        "var",
         "vara",
         "varea",
         "vareo",
@@ -199820,6 +199906,7 @@
         "overol",
         "uveral",
         "varal",
+        "varolio",
         "veril",
         "viral",
         "viril",
@@ -201386,9 +201473,7 @@
         "hez",
         "hoz",
         "iza",
-        "Suiza",
         "uzo",
-        "z",
         "za",
         "zaya",
         "zoo",
@@ -201900,9 +201985,6 @@
     ],
     "zgrt": [
         "zigurat"
-    ],
-    "zgts": [
-        "Mazagatos"
     ],
     "zgzg": [
         "zigzag",
@@ -203662,7 +203744,6 @@
         "año",
         "eñe",
         "huaiño",
-        "ñ",
         "ña",
         "ño",
         "ñu",
@@ -203853,8 +203934,7 @@
     ],
     "ñn": [
         "añina",
-        "añino",
-        "Bañón"
+        "añino"
     ],
     "ñnd": [
         "ñandú"
@@ -203939,9 +204019,6 @@
         "ñurda",
         "ñurdo",
         "uñarada"
-    ],
-    "ñrnd": [
-        "Peñaranda"
     ],
     "ñrnt": [
         "añorante"

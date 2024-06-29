@@ -1,7 +1,7 @@
 import pandas as pd
 
-archivo_a_limpiar = "argentinas.csv"
-archivo_salida = "final2.csv"
+archivo_a_limpiar = "palabras.txt"
+archivo_salida = "final.csv"
 letras_ok = [
     "b",
     "c",

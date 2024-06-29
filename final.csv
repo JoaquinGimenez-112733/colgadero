@@ -1,5 +1,4 @@
 key,palabras
-,a
 b,aba
 b,abaá
 bbllrs,ababillarse
@@ -446,8 +445,8 @@ brcdbrnt,abracadabrante
 brcr,abracar
 brcjrs,abracijarse
 brcj,abracijo
-brm,Abraham
-brn,Abrahán
+brm,abraham
+brn,abrahán
 brsdr,abrasador
 brsdr,abrasadora
 brsmnt,abrasamiento
@@ -558,7 +557,7 @@ brtd,abrutado
 brz,abruza
 brzrs,abruzarse
 brz,abruzo
-,ABS
+bs,abs
 bscs,absceso
 bscs,abscisa
 bscsn,abscisión
@@ -2269,7 +2268,7 @@ dmntr,admonitor
 dmntr,admonitora
 dmntr,admonitoria
 dmntr,admonitorio
-,ADN
+dn,adn
 dnd,adnada
 dnd,adnado
 dnt,adnata
@@ -2414,7 +2413,7 @@ dscrpt,adscripta
 dscrpt,adscripto
 dscrt,adscrita
 dscrt,adscrito
-,ADSL
+dsl,adsl
 dsrbnt,adsorbente
 dsrbr,adsorber
 dsrcn,adsorción
@@ -2529,7 +2528,7 @@ dvrtdmnt,advertidamente
 dvrtd,advertido
 dvrtmnt,advertimiento
 dvrtr,advertir
-dvnt,Adviento
+dvnt,adviento
 dvccn,advocación
 dvcr,advocar
 dvctr,advocatoria
@@ -3185,7 +3184,7 @@ gnstc,agnóstica
 gnstcsm,agnosticismo
 gnstc,agnóstico
 gns,agnus
-gns,agnus Dei
+gnsd,agnus dei
 gnsd,agnusdéi
 gbd,agobiada
 gbd,agobiado
@@ -3288,7 +3287,7 @@ grmdr,agramadera
 grmd,agramado
 grmdr,agramador
 grmdr,agramadora
-grmnt,Agramante
+grmnt,agramante
 grmr,agramar
 grmtcl,agramatical
 grmtcldd,agramaticalidad
@@ -3688,10 +3687,8 @@ gznvs,aguzanieves
 gzr,aguzar
 gz,aguzo
 gznz,aguzonazo
-,ah
 cd,ahacado
 jr,ahajar
-,ahé
 brd,ahebrada
 brd,ahebrado
 chdr,ahechadero
@@ -3714,7 +3711,6 @@ rrmbrr,aherrumbrar
 rvntr,aherventar
 rvrrs,ahervorarse
 trr,ahetrar
-,ahí
 dlgd,ahidalgada
 dlgd,ahidalgado
 dlgr,ahidalgar
@@ -3752,7 +3748,6 @@ tmnt,ahitamiento
 tr,ahitar
 tr,ahitera
 t,ahíto
-,ahó
 bchnd,ahobachonada
 bchnd,ahobachonado
 ccr,ahocicar
@@ -3832,7 +3827,6 @@ cdr,ahuecador
 cdr,ahuecadora
 cmnt,ahuecamiento
 cr,ahuecar
-,ahuehué
 t,ahuehuete
 jt,ahuejote
 sd,ahuesada
@@ -3889,7 +3883,7 @@ rmnt,aireamiento
 rr,airear
 r,aireo
 rn,airón
-rn,Airón
+rn,airón
 rnz,aironazo
 rs,airosa
 rsmnt,airosamente
@@ -4556,7 +4550,7 @@ lcds,alcaidesa
 lcd,alcaidía
 lcdd,alcaidiado
 lcr,alcairía
-lcl,Alcalá
+lcl,alcalá
 lcldn,alcaladina
 lcldn,alcaladino
 lclñ,alcalaeña
@@ -4607,7 +4601,7 @@ lcnfrr,alcanforero
 lcñzn,alcañizana
 lcñzn,alcañizano
 lcntr,alcántara
-lcntr,Alcántara
+lcntr,alcántara
 lcntrll,alcantarilla
 lcntrlld,alcantarillado
 lcntrllr,alcantarillar
@@ -4716,7 +4710,7 @@ lcll,alcolla
 lcmns,alcomenías
 lcncll,alconcilla
 lcr,alcor
-lcrn,Alcorán
+lcrn,alcorán
 lcrnc,alcoránica
 lcrnc,alcoránico
 lcrnst,alcoranista
@@ -4853,7 +4847,7 @@ lj,aleja
 ljd,alejada
 ljd,alejado
 ljmnt,alejamiento
-ljndr,Alejandría
+ljndr,alejandría
 ljndrn,alejandrina
 ljndrnsm,alejandrinismo
 ljndrn,alejandrino
@@ -5280,7 +5274,7 @@ lcd,alicaída
 lcd,alicaído
 lcntr,alicántara
 lcnt,alicante
-lcnt,Alicante
+lcnt,alicante
 lcntn,alicantina
 lcntn,alicantino
 lcnt,alicanto
@@ -5509,7 +5503,7 @@ llgnz,alleganza
 llgr,allegar
 llgrtt,allegretto
 llgr,allegro
-lln,Allen
+lln,allen
 llnd,allende
 ll,allí
 llz,alloza
@@ -6051,7 +6045,7 @@ ltpln,altiplano
 ltrcn,altiricón
 ltrcn,altiricona
 ltr,altiro
-ltsm,Altísimo
+ltsm,altísimo
 ltsn,altísona
 ltsnnc,altisonancia
 ltsnnt,altisonante
@@ -6194,10 +6188,10 @@ lzprm,alzaprima
 lzprmr,alzaprimar
 lzprts,alzapuertas
 lzr,alzar
-lzmr,Alzheimer
+lzmr,alzheimer
 lzmr,alzhéimer
 lz,alzo
-,AM
+m,am
 m,ama
 m,amá
 mbldd,amabilidad
@@ -6613,7 +6607,7 @@ mrcndrs,amercendearse
 mrngd,amerengada
 mrngd,amerengado
 mrc,américa
-mrc,América
+mrc,américa
 mrcn,americana
 mrcnd,americanada
 mrcndd,americanidad
@@ -6627,7 +6621,7 @@ mrcnzd,americanizado
 mrcnznt,americanizante
 mrcnzr,americanizar
 mrcn,americano
-mrcs,Américas
+mrcs,américas
 mrc,americio
 mrc,américo
 mrnd,amerindia
@@ -6806,7 +6800,7 @@ mlltd,amolletada
 mlltd,amolletado
 mltrs,amolotarse
 mm,amomo
-mn,Amón
+mn,amón
 mnl,amonal
 mnrs,amonarse
 mndngd,amondongada
@@ -7280,7 +7274,7 @@ nchr,anchoar
 nchr,anchor
 nchv,anchova
 nchvt,anchoveta
-nchl,Anchuelo
+nchl,anchuelo
 nchr,anchura
 nchrn,anchurón
 nchrs,anchurosa
@@ -7405,7 +7399,7 @@ ndrjr,andrajero
 ndrj,andrajo
 ndrjs,andrajosa
 ndrjs,andrajoso
-ndrs,Andrés
+ndrs,andrés
 ndrn,andrina
 ndrn,andrino
 ndrcntrc,androcéntrica
@@ -7567,7 +7561,7 @@ ngr,ángaro
 ngz,angazo
 ngl,ángel
 ngl,ángela
-ngl,Ángela
+ngl,ángela
 nglc,angélica
 nglcl,angelical
 nglclmnt,angelicalmente
@@ -8410,7 +8404,7 @@ ntlbrlsm,antiliberalismo
 ntlln,antillana
 ntllnsm,antillanismo
 ntlln,antillano
-ntlls,Antillas
+ntlls,antillas
 ntlgrtm,antilogaritmo
 ntlg,antilogía
 ntlgc,antilógica
@@ -8661,7 +8655,7 @@ ntlgc,antológico
 ntlgst,antologista
 ntlgzr,antologizar
 ntlg,antólogo
-ntn,Antón
+ntn,antón
 ntnn,antoniana
 ntnn,antoniano
 ntnm,antónima
@@ -8671,7 +8665,7 @@ ntnn,antonina
 ntnnn,antoniniana
 ntnnn,antoniniano
 ntnn,antonino
-ntn,Antonio
+ntn,antonio
 ntnms,antonomasia
 ntnmstc,antonomástica
 ntnmstcmnt,antonomásticamente
@@ -9824,7 +9818,7 @@ qltr,aquilatar
 ql,aquilea
 qlñ,aquileña
 qlñ,aquileño
-qls,Aquiles
+qls,aquiles
 qlfr,aquilífero
 qln,aquilina
 qln,aquilino
@@ -9895,7 +9889,7 @@ rdr,arador
 rdr,aradora
 rdr,aradro
 rdr,aradura
-rgn,Aragón
+rgn,aragón
 rgns,aragonés
 rgns,aragonesa
 rgnssm,aragonesismo
@@ -10476,7 +10470,7 @@ rmtrst,armatroste
 rmzn,armazón
 rmll,armella
 rmn,armenia
-rmn,Armenia
+rmn,armenia
 rmnc,arménico
 rmn,armenio
 rmnt,armento
@@ -10521,7 +10515,7 @@ rmrcn,armoricana
 rmrcn,armoricano
 rms,armos
 rmll,armuelle
-,ARN
+rn,arn
 rn,arna
 rnch,arnacho
 rnd,arnadí
@@ -10602,7 +10596,7 @@ rqtp,arquetipo
 rqbnc,arquibanco
 rqdcss,arquidiócesis
 rqpscpl,arquiepiscopal
-rqmds,Arquímedes
+rqmds,arquímedes
 rqms,arquimesa
 rqpndl,arquipéndola
 rqptr,arquíptero
@@ -10678,7 +10672,7 @@ rrpz,arrapiezo
 rrqv,arraquive
 rrrr,arrarray
 rrs,arras
-rrs,Arrás
+rrs,arrás
 rrsd,arrasada
 rrsd,arrasado
 rrsdr,arrasador
@@ -12527,7 +12521,7 @@ trchd,atruchado
 trnd,atruendo
 trnd,atruhanada
 trnd,atruhanado
-,ATS
+ts,ats
 tnd,atuendo
 tfd,atufada
 tfd,atufado
@@ -13045,7 +13039,7 @@ vsllr,avasallar
 vtr,avatar
 vt,avatí
 v,ave
-,AVE
+v,ave
 vchch,avechucho
 vcll,avecilla
 vcnr,avecinar
@@ -13269,7 +13263,6 @@ vlsn,avulsión
 vtrd,avutarda
 vtrdd,avutardada
 vtrdd,avutardado
-,ax
 cl,áxcale
 nc,axénica
 nc,axénico
@@ -13295,8 +13288,6 @@ n,axón
 nmtr,axonometría
 nmtrc,axonométrica
 nmtrc,axonométrico
-,ay
-,aya
 ct,ayacahuite
 cst,ayacaste
 c,ayaco
@@ -13310,17 +13301,12 @@ ls,ayalés
 ls,ayalesa
 t,ayate
 tl,ayatolá
-,ayáu
-,ayayáu
-,ayayay
 r,ayayera
 r,ayayero
 r,ayear
-,ayeaye
 r,ayer
 rmr,ayermar
 m,aymé
-,ayo
 ct,ayocote
 pñ,ayopayeña
 pñ,ayopayeño
@@ -13329,7 +13315,6 @@ r,ayoreo
 tl,ayotal
 t,ayote
 tr,ayotera
-,ayúa
 d,ayuda
 dd,ayudada
 dd,ayudado
@@ -13582,7 +13567,6 @@ zt,azutea
 zzdr,azuzador
 zzdr,azuzadora
 zzr,azuzar
-b,b
 blt,baalita
 bssm,baasismo
 bsst,baasista
@@ -13609,7 +13593,7 @@ bbr,babera
 bbr,babero
 bbrl,baberol
 bb,babi
-b,Babia
+bb,babia
 bbn,babiana
 bbn,babiano
 bbc,babieca
@@ -14140,7 +14124,7 @@ blrd,balurdo
 blzqn,balzaquiana
 blzqn,balzaquiano
 bmb,bamba
-mb,Bamba
+bmb,bamba
 bmbdr,bambador
 bmblr,bambalear
 bmbln,bambalina
@@ -14270,7 +14254,7 @@ bñst,bañista
 bnj,banjo
 bnnr,banner
 bñ,baño
-ñn,Bañón
+bñn,bañón
 bnq,banqueo
 bnqr,banquera
 bnqr,banquero
@@ -14375,7 +14359,7 @@ brbjn,barbaján
 brbjls,barbajuelas
 brbr,barbar
 brbr,bárbara
-rbr,Bárbara
+brbr,bárbara
 brbrmnt,bárbaramente
 brbrr,barbarería
 brbrsc,barbaresca
@@ -14483,7 +14467,7 @@ brcl,barcal
 brcrl,barcarola
 brcz,barcaza
 brcll,barcella
-rcln,Barcelona
+brcln,barcelona
 brclns,barcelonés
 brclns,barcelonesa
 brclnsm,barcelonismo
@@ -14872,7 +14856,7 @@ btt,batata
 bttz,batatazo
 btt,batato
 btv,bátava
-tv,Batavia
+btv,batavia
 btv,bátavo
 btl,batayola
 btz,batazo
@@ -14936,7 +14920,7 @@ btcd,batucada
 btcr,batucar
 btd,batuda
 btc,batueca
-tcs,Batuecas
+btcs,batuecas
 btc,batueco
 btqr,batuquear
 btq,batuqueo
@@ -14989,7 +14973,7 @@ btn,bayetón
 b,bayo
 bc,bayoco
 bn,bayón
-n,Bayona
+bn,bayona
 bnns,bayonense
 bns,bayonés
 bns,bayonesa
@@ -15704,7 +15688,7 @@ bnvnd,bienvenida
 bnvnd,bienvenido
 bnvvr,bienvivir
 bnz,bienza
-rz,Bierzo
+brz,bierzo
 bs,bies
 bfsc,bifásica
 bfsc,bifásico
@@ -16247,7 +16231,7 @@ blnqzc,blanquizca
 blnqzc,blanquizco
 blnqz,blanquizo
 bl,blao
-ls,Blas
+bls,blas
 blsfm,blasfema
 blsfmbl,blasfemable
 blsfmdr,blasfemador
@@ -16475,7 +16459,7 @@ bgt,bogueta
 brdll,bohardilla
 bm,bohema
 bm,bohemia
-m,Bohemia
+bm,bohemia
 bmn,bohemiana
 bmn,bohemiano
 bmc,bohémica
@@ -16669,7 +16653,7 @@ bmbrmblls,bomborombillos
 bmpr,bómper
 bn,bon
 bn,bona
-n,Bona
+bn,bona
 bnchn,bonachón
 bnchn,bonachona
 bnchnr,bonachonería
@@ -17258,7 +17242,7 @@ brsr,brasear
 brsr,brasero
 brsr,brasier
 brsl,brasil
-rsl,Brasil
+brsl,brasil
 brsld,brasilada
 brsld,brasilado
 brslñ,brasileña
@@ -17395,9 +17379,9 @@ brgdst,brigadista
 brgnt,brigante
 brgntn,brigantina
 brgntn,brigantino
-rgt,Bright
+brgt,bright
 brgl,brigola
-rjn,Briján
+brjn,briján
 brk,brik
 brlldr,brillador
 brlldr,brilladora
@@ -17636,7 +17620,7 @@ brsct,bruscate
 brsc,brusco
 brsl,brusela
 brsls,bruselas
-rsls,Bruselas
+brsls,bruselas
 brslns,bruselense
 brsqdd,brusquedad
 brsqr,brusquero
@@ -17738,7 +17722,7 @@ bnz,buenazo
 bnsm,buenismo
 bnst,buenista
 bn,bueno
-nsrs,Buenos Aires
+bnsrs,buenos aires
 br,buera
 btg,buétago
 btr,buetre
@@ -17931,7 +17915,7 @@ brgs,burgesa
 brg,burgo
 brgmstr,burgomaestra
 brgmstr,burgomaestre
-rgs,Burgos
+brgs,burgos
 brgrv,burgrave
 brgrvt,burgraviato
 brgñ,burgueña
@@ -18107,7 +18091,6 @@ bpss,bypass
 brnn,byroniana
 brnn,byroniano
 bt,byte
-c,c
 c,ca
 ccpñ,caacupeña
 ccpñ,caacupeño
@@ -18303,7 +18286,7 @@ cblr,cablero
 cblv,cablieva
 cblt,cablote
 cb,cabo
-b,Cabo
+cb,cabo
 cbrl,caboral
 cbtj,cabotaje
 cbvrdn,caboverdiana
@@ -18435,7 +18418,7 @@ cchnchn,cachanchán
 cchnchn,cachanchana
 cchñr,cachañear
 cchnlg,cachanlagua
-chn,Cachano
+cchn,cachano
 cchp,cachapa
 cchpr,cachapera
 cchpln,cachapoalina
@@ -18778,7 +18761,7 @@ cmnr,caimanera
 cmnt,caimiento
 cmtl,caimital
 cmt,caimito
-n,Caín
+cn,caín
 cnsm,cainismo
 cnt,cainita
 cprñ,caipiriña
@@ -18840,7 +18823,7 @@ clbcn,calabacín
 clbcnt,calabacinate
 clbcn,calabacino
 clbct,calabacita
-lbr,Calabar
+clbr,calabar
 clbz,calabaza
 clbzd,calabazada
 clbzr,calabazar
@@ -18895,7 +18878,7 @@ clrrn,calahorrano
 clrrñ,calahorreña
 clrrñ,calahorreño
 clc,calaica
-lns,Calaínos
+clns,calaínos
 clt,calaíta
 clj,calaje
 cllz,calaluz
@@ -18938,7 +18921,7 @@ clmrrz,calamorrazo
 clmrr,calamorro
 cln,calán
 clñ,calaña
-lñs,Calañas
+clñs,calañas
 clncnr,calancanear
 clncs,calancas
 clnch,calancha
@@ -18969,7 +18952,7 @@ clt,cálato
 clts,calatosa
 clts,calatoso
 cltrv,calatrava
-ltrv,Calatrava
+cltrv,calatrava
 cltrvñ,calatraveña
 cltrvñ,calatraveño
 cltrv,calatravo
@@ -19289,7 +19272,7 @@ cll,calle
 cllr,callear
 cllcll,callecalle
 cllj,calleja
-llj,Calleja
+cllj,calleja
 clljr,callejear
 cllj,callejeo
 clljr,callejera
@@ -19852,7 +19835,7 @@ cñbrv,cañabrava
 cnc,canaca
 cnc,canaco
 cñcr,cañacoro
-nd,Canadá
+cnd,canadá
 cñd,cañada
 cndll,canadiella
 cndns,canadiense
@@ -19982,7 +19965,7 @@ cnclcn,cancelación
 cncldr,cancelador
 cncldr,canceladora
 cnclr,cancelar
-nclr,Cancelaría
+cnclr,cancelaría
 cnclrt,cancelariato
 cnclr,cancelario
 cnclr,cancelería
@@ -20641,7 +20624,7 @@ cptlr,capitulario
 cptlrmnt,capitularmente
 cptl,capítulo
 cpzn,capizana
-pln,Caplán
+cpln,caplán
 cpnmnc,capnomancia
 cp,capo
 cp,capó
@@ -20931,7 +20914,7 @@ crtlr,caratulera
 crtlr,caratulero
 cr,caráu
 crz,carauz
-rvc,Caravaca
+crvc,caravaca
 crvn,caravana
 crvnr,caravanero
 crvsr,caravasar
@@ -21128,7 +21111,7 @@ crdzl,cardizal
 crd,cardo
 crdn,cardón
 crdn,cardona
-rdn,Cardona
+crdn,cardona
 crdnl,cardonal
 crdncll,cardoncillo
 crdsnt,cardosanto
@@ -21551,7 +21534,7 @@ crrcr,carracera
 crrcr,carracero
 crrc,carraco
 crrcn,carracón
-rrcc,Carracuca
+crrcc,carracuca
 crrd,carrada
 crrf,carrafa
 crrl,carral
@@ -21944,7 +21927,7 @@ csnt,casineta
 csnt,casinete
 csnt,casinita
 csn,casino
-s,Casio
+cs,casio
 cspr,casiopiri
 css,casis
 cst,casita
@@ -22071,7 +22054,7 @@ cstrñ,castoreño
 cstr,castóreo
 cstrn,castorina
 cstr,castorio
-strl,Cástor y Pólux
+cstrpl,cástor y pólux
 cstr,castra
 cstrcn,castración
 cstrd,castrada
@@ -22622,8 +22605,8 @@ czrrr,cazurrería
 czrr,cazurría
 czrr,cazurro
 czz,cazuz
-,CD
-,CD-ROM
+cd,cd
+cdrm,cd-rom
 c,ce
 c,cea
 cj,ceaja
@@ -22790,7 +22773,7 @@ cbñ,ceibeña
 cbñ,ceibeño
 cb,ceibo
 cbn,ceibón
-ln,Ceilán
+cln,ceilán
 clnds,ceilandés
 clnds,ceilandesa
 clns,ceilanés
@@ -22911,7 +22894,7 @@ cls,celosía
 cls,celoso
 cltp,celotipia
 clstd,celsitud
-lss,Celsius
+clss,celsius
 clt,celta
 cltbr,celtíbera
 cltbrc,celtibérica
@@ -23733,7 +23716,7 @@ chfrt,chafirete
 chfln,chaflán
 chflnr,chaflanar
 chflr,chaflar
-gs,Chagas
+chgs,chagas
 chgll,chagolla
 chgr,chagra
 chgrll,chagrillo
@@ -24404,7 +24387,7 @@ chvt,cheviot
 chn,cheyene
 ch,chía
 chnt,chianti
-p,Chiapa
+chp,chiapa
 chpnc,chiapaneca
 chpnc,chiapaneco
 chr,chiar
@@ -24569,7 +24552,7 @@ chlcl,chilcal
 chlcht,chilchote
 chlc,chilco
 chl,chile
-l,Chile
+chl,chile
 chln,chilena
 chlndd,chilenidad
 chlnsm,chilenismo
@@ -26713,7 +26696,7 @@ cbl,cobil
 cbst,cobista
 cbl,cobla
 cb,cobo
-bs,Cobos
+cbs,cobos
 cbr,cobra
 cbrbl,cobrable
 cbrd,cobrada
@@ -28049,7 +28032,7 @@ cmpstdr,compostador
 cmpstdr,compostadora
 cmpstj,compostaje
 cmpstr,compostar
-mpstl,Compostela
+cmpstl,compostela
 cmpstln,compostelana
 cmpstln,compostelano
 cmpst,composteo
@@ -28862,7 +28845,7 @@ cngrsnl,congresional
 cngrsst,congresista
 cngrs,congreso
 cngrsl,congresual
-ngrv,Congreve
+cngrv,congreve
 cngr,congrí
 cngr,congrio
 cngr,congrua
@@ -29211,7 +29194,7 @@ cnstnt,constante
 cnstntmnt,constantemente
 cnstntnn,constantiniana
 cnstntnn,constantiniano
-nstntnpl,Constantinopla
+cnstntnpl,constantinopla
 cnstntnpltn,constantinopolitana
 cnstntnpltn,constantinopolitano
 cnstr,constar
@@ -30284,7 +30267,7 @@ crmbr,corambre
 crmbrr,corambrero
 crmppl,coram populo
 crmvbs,coramvobis
-rn,Corán
+crn,corán
 crn,corana
 crnc,coránica
 crnc,coránico
@@ -30433,7 +30416,7 @@ crt,coreuta
 crzl,corezuelo
 cr,cori
 cr,corí
-r,Coria
+cr,coria
 crc,coriácea
 crc,coriáceo
 crmbc,coriámbica
@@ -30457,7 +30440,7 @@ crntc,coríntica
 crntc,coríntico
 crnt,corintio
 crnt,corinto
-rnt,Corinto
+crnt,corinto
 cr,corío
 crn,corion
 crptñ,coripateña
@@ -30637,7 +30620,7 @@ crplnc,corpulencia
 crplnt,corpulenta
 crplnt,corpulento
 crps,corpus
-rps,Corpus
+crps,corpus
 crpsclr,corpuscular
 crpsclst,corpusculista
 crpscl,corpúsculo
@@ -31238,7 +31221,7 @@ cvdr,covadera
 cvlnt,covalente
 cvlng,covalonga
 cvnll,covanilla
-,COVID
+cvd,covid
 c,coxa
 cl,coxal
 clg,coxalgia
@@ -31479,7 +31462,7 @@ crbdr,cribador
 crbdr,cribadora
 crbj,cribaje
 crbr,cribar
-rbs,Cribas
+crbs,cribas
 crbl,cribelo
 crbt,cribete
 crb,cribo
@@ -32076,7 +32059,7 @@ cs,cuasi
 cs,cuasia
 cscntrt,cuasicontrato
 csdlt,cuasidelito
-smd,Cuasimodo
+csmd,cuasimodo
 ct,cuata
 ctch,cuatacha
 ctchsm,cuatachismo
@@ -32309,7 +32292,7 @@ cllrrj,cuellirrojo
 cll,cuello
 clm,cuelmo
 cnc,cuenca
-nc,Cuenca
+cnc,cuenca
 cncn,cuencana
 cncn,cuencano
 cnc,cuenco
@@ -32959,7 +32942,6 @@ czqñ,cuzqueño
 czl,cuzul
 cclcrss,cyclo-cross
 czrd,czarda
-d,d
 dbl,dable
 dc,daca
 dc,dacá
@@ -33084,7 +33066,7 @@ dmnfcd,damnificado
 dmnfcdr,damnificador
 dmnfcdr,damnificadora
 dmnfcr,damnificar
-mcls,Damocles
+dmcls,damocles
 dn,dan
 dñbl,dañable
 dñcn,dañación
@@ -33185,13 +33167,13 @@ dd,daudá
 dlñ,dauleña
 dlñ,dauleño
 dvlr,davalar
-vd,David
+dvd,david
 dvdñ,davideña
 dvdñ,davideño
 dvdc,davídica
 dvdc,davídico
 dzb,dazibao
-,DDT
+ddt,ddt
 d,de
 d,dea
 dl,deal
@@ -34150,7 +34132,7 @@ dgrcs,deo gracias
 dntlg,deontología
 dntlgc,deontológica
 dntlgc,deontológico
-vlnt,Deo volente
+dvlnt,deo volente
 dprdr,deparador
 dprdr,deparadora
 dprr,deparar
@@ -38593,7 +38575,7 @@ dmrf,dimorfa
 dmrfsm,dimorfismo
 dmrf,dimorfo
 dn,din
-,DIN
+dn,din
 dn,dina
 dnch,dinacho
 dnmrqs,dinamarqués
@@ -39348,8 +39330,8 @@ dmbc,diyámbica
 dmbc,diyámbico
 dmb,diyambo
 dzq,dizque
-,DNA
-,DNI
+dn,dna
+dn,dni
 d,do
 dbrmn,dóberman
 dbl,dobla
@@ -39565,7 +39547,7 @@ dmn,dómine
 dmng,dominga
 dmngd,domingada
 dmng,domingo
-mng,Domingo
+dmng,domingo
 dmngj,dominguejo
 dmngr,dominguera
 dmngr,dominguero
@@ -39735,7 +39717,7 @@ dl,doula
 dvl,dovela
 dvlj,dovelaje
 dvlr,dovelar
-n,Down
+dn,down
 dgrf,doxógrafa
 dgrf,doxografía
 dgrf,doxógrafo
@@ -39917,7 +39899,7 @@ dñ,dueño
 drmvl,duermevela
 drn,duerna
 drn,duerno
-r,Duero
+dr,duero
 dt,dueto
 dg,dugo
 d,dúho
@@ -40055,9 +40037,7 @@ dnvrt,duunvirato
 dnvr,duunviro
 d,dux
 dz,duz
-,DVD
-,e
-,ea
+dvd,dvd
 gl,eagle
 snns,easonense
 bnst,ebanista
@@ -40280,7 +40260,7 @@ dlc,edilicio
 dldd,edilidad
 dpc,edípica
 dpc,edípico
-dp,Edipo
+dp,edipo
 dtr,editar
 dtr,editor
 dtr,editora
@@ -40393,7 +40373,7 @@ ggrpl,egagrópila
 grns,egarense
 gn,egena
 gn,egeno
-gr,Egeria
+gr,egeria
 gstd,egestad
 gstn,egestión
 gtn,egetana
@@ -40412,7 +40392,7 @@ gpcn,egipciano
 gpc,egipcio
 gptn,egiptana
 gptn,egiptano
-gpt,Egipto
+gpt,egipto
 gptlg,egiptóloga
 gptlg,egiptología
 gptlgc,egiptológica
@@ -40445,7 +40425,6 @@ grsr,egresar
 grsn,egresión
 grs,egreso
 gr,eguar
-,eh
 brrs,eibarrés
 brrs,eibarresa
 dtc,eidética
@@ -40555,7 +40534,7 @@ lctrlst,electoralista
 lctrr,electorera
 lctrrsm,electorerismo
 lctrr,electorero
-lctr,Electra
+lctr,electra
 lctrc,eléctrica
 lctrcdd,electricidad
 lctrcst,electricista
@@ -44913,7 +44892,7 @@ rrnmnt,erróneamente
 rrn,erróneo
 rrr,error
 rtzn,ertzaina
-rtzntz,Ertzaintza
+rtzntz,ertzaintza
 rbscnc,erubescencia
 rbscnt,erubescente
 rctcn,eructación
@@ -45338,7 +45317,7 @@ scnc,esciencia
 scnt,esciente
 scfz,escifozoo
 scl,escila
-scl,Escila
+scl,escila
 scncd,escíncido
 scnc,escinco
 scndbl,escindible
@@ -45432,7 +45411,7 @@ sccs,escocés
 sccs,escocesa
 scchrr,escocherar
 scc,escocia
-scc,Escocia
+scc,escocia
 sccn,escociana
 sccn,escociano
 sccmnt,escocimiento
@@ -45952,7 +45931,7 @@ snfr,esnifar
 snb,esnob
 snbsm,esnobismo
 s,eso
-,ESO
+s,eso
 sfgc,esofágica
 sfgc,esofágico
 sfg,esófago
@@ -46037,7 +46016,7 @@ splmdr,espalmador
 splmdr,espalmadura
 splmr,espalmar
 splt,espalto
-spñ,España
+spñ,españa
 spngls,espanglish
 spñl,español
 spñl,española
@@ -46368,7 +46347,7 @@ spnll,espinillo
 spn,espino
 spnchr,espinochar
 spns,espinosa
-spns,Espinosa
+spns,espinosa
 spnsg,espinosiega
 spnsg,espinosiego
 spnssm,espinosismo
@@ -47149,7 +47128,7 @@ stcj,estocaje
 stcr,estocar
 stcstc,estocástica
 stcstc,estocástico
-stclm,Estocolmo
+stclm,estocolmo
 stcnz,estoconazo
 stf,estofa
 stfd,estofada
@@ -47590,7 +47569,7 @@ tlgc,etiológica
 tlgc,etiológico
 tp,etíope
 tp,etiopia
-tp,Etiopía
+tp,etiopía
 tpn,etiopiana
 tpn,etiopiano
 tpc,etiópica
@@ -47718,7 +47697,7 @@ rscptcsm,euroescepticismo
 rscptc,euroescéptico
 rsclrss,euroesclerosis
 rfn,eurofán
-rp,Europa
+rp,europa
 rprlmntr,europarlamentaria
 rprlmntr,europarlamentario
 rp,europea
@@ -47746,7 +47725,7 @@ skr,éuskaro
 skr,euskera
 sqrc,eusquérica
 sqrc,eusquérico
-stq,Eustaquio
+stq,eustaquio
 tns,eutanasia
 tnsc,eutanásica
 tnsc,eutanásico
@@ -47861,7 +47840,6 @@ vltv,evolutiva
 vltvmnt,evolutivamente
 vltv,evolutivo
 vnm,evónimo
-,ex
 brpt,exabrupto
 brpt,ex abrupto
 ccn,exacción
@@ -48644,7 +48622,6 @@ ltnt,exultante
 ltr,exultar
 tr,exutorio
 vt,exvoto
-,ey
 clcn,eyaculación
 cldr,eyaculador
 cldr,eyaculadora
@@ -48657,7 +48634,6 @@ ctr,eyectar
 ctr,eyector
 zqrdr,ezquerdear
 zqt,ezquite
-f,f
 f,fa
 fb,faba
 fbd,fabada
@@ -48837,7 +48813,7 @@ fgt,fagot
 fgt,fagote
 fgtst,fagotista
 fgñ,fagüeño
-rnt,Fahrenheit
+frnt,fahrenheit
 f,fai
 fcl,faical
 fn,faina
@@ -48997,7 +48973,7 @@ flp,falopa
 flprs,falopearse
 flpr,falopera
 flpr,falopero
-lp,Falopio
+flp,falopio
 flrd,falordia
 flr,faloria
 flq,falquía
@@ -49672,7 +49648,7 @@ frmn,fermión
 frms,fermosa
 frms,fermoso
 frmsr,fermosura
-rnmbc,Fernambuco
+frnmbc,fernambuco
 frnndn,fernandina
 frnndn,fernandino
 frnt,fernet
@@ -50463,7 +50439,7 @@ flmgr,flamígero
 flml,flámula
 fln,flan
 flnc,flanco
-lnds,Flandes
+flnds,flandes
 flnr,flanera
 flnr,flanero
 flnqd,flanqueada
@@ -50636,7 +50612,7 @@ flrcd,florecida
 flrcd,florecido
 flrcnt,floreciente
 flrcmnt,florecimiento
-lrnc,Florencia
+flrnc,florencia
 flrns,florense
 flrntn,florentín
 flrntn,florentina
@@ -50662,7 +50638,7 @@ flrcltr,floricultor
 flrcltr,floricultora
 flrcltr,floricultura
 flrd,florida
-lrd,Florida
+flrd,florida
 flrdmnt,floridamente
 flrdn,floridana
 flrdn,floridano
@@ -51340,7 +51316,7 @@ frctrr,fracturar
 frd,frade
 frdr,fradear
 frg,fraga
-rg,Fraga
+frg,fraga
 frgnc,fragancia
 frgnt,fragante
 frgr,fragaria
@@ -51414,7 +51390,7 @@ frncsst,francesista
 frnchpn,franchipán
 frncht,franchuta
 frncht,franchute
-rnc,Francia
+frnc,francia
 frnc,francio
 frncsc,francisca
 frncscn,franciscana
@@ -51716,7 +51692,7 @@ frsdr,frisadura
 frsr,frisar
 frsc,frisca
 frs,frisia
-rs,Frisia
+frs,frisia
 frs,frisio
 frs,friso
 frsl,frísol
@@ -52244,7 +52220,6 @@ ftrlg,futurología
 ftrlg,futurólogo
 ftt,fututa
 ftt,fututo
-g,g
 gbch,gabacha
 gbchd,gabachada
 gbch,gabacho
@@ -52658,7 +52633,7 @@ gmbtdr,gambeteadora
 gmbtr,gambetear
 gmbt,gambeteo
 gmbt,gambeto
-mb,Gambia
+gmb,gambia
 gmbn,gambiana
 gmbn,gambiano
 gmbt,gambito
@@ -52920,7 +52895,7 @@ grgj,gargajeo
 grgjnt,gargajienta
 grgjnt,gargajiento
 grgj,gargajo
-rgj,Gargajo
+grgj,gargajo
 grgjs,gargajosa
 grgjs,gargajoso
 grgl,gargal
@@ -53218,7 +53193,7 @@ gch,gaucho
 gdms,gaudeamus
 gdn,gaudón
 gss,gauss
-ss,Gauss
+gss,gauss
 gvnz,gavanza
 gvnz,gavanzo
 gvr,gavera
@@ -53431,7 +53406,7 @@ gnmc,genómico
 gntpc,genotípica
 gntpc,genotípico
 gntp,genotipo
-nv,Génova
+gnv,génova
 gnvs,genovés
 gnvs,genovesa
 gnvsc,genovisca
@@ -53916,7 +53891,7 @@ glmrl,glomérulo
 glr,gloria
 glrd,gloriado
 glrptr,gloriapatri
-lrtr,Gloria Patri
+glrptr,gloria patri
 glrr,gloriar
 glrt,glorieta
 glrfcbl,glorificable
@@ -54075,7 +54050,7 @@ glfstc,golfística
 glfstc,golfístico
 glft,golfito
 glf,golfo
-lg,Golgi
+glg,golgi
 glrd,goliarda
 glrdsc,goliardesca
 glrdsc,goliardesco
@@ -54310,8 +54285,8 @@ gzs,gozosa
 gzsmnt,gozosamente
 gzs,gozoso
 gzq,gozque
-,GPS
-rf,Graaf
+gps,gps
+grf,graaf
 grbbl,grabable
 grbcn,grabación
 grbd,grabado
@@ -55442,7 +55417,7 @@ grch,guercha
 grch,guercho
 grgr,güergüero
 grmcs,güérmeces
-rns,Guernesey
+grns,guernesey
 gr,güero
 grr,guerra
 grrdr,guerreador
@@ -55731,8 +55706,6 @@ gzg,guzgo
 gzl,guzla
 gzmn,guzmán
 gzptr,guzpátaro
-,h
-,ha
 b,haba
 bd,habada
 bd,habado
@@ -56005,7 +55978,6 @@ nnvrn,hannoveriano
 nstc,hanseática
 nstc,hanseático
 nz,hanzo
-,hao
 pld,hapálido
 p,hápax
 plgrf,haplografía
@@ -56113,13 +56085,11 @@ vr,havara
 v,havo
 n,hawaiana
 n,hawaiano
-,haya
 c,hayaca
 l,hayal
 d,hayedo
 n,hayena
 n,hayeno
-,hayo
 c,hayuco
 z,haz
 z,haza
@@ -56134,7 +56104,6 @@ zñs,hazañosa
 zñsmnt,hazañosamente
 zñs,hazañoso
 zmrrr,hazmerreír
-,he
 v,heavy
 vmtl,heavy metal
 bdmd,hebdómada
@@ -56783,10 +56752,7 @@ slb,hexasílaba
 slb,hexasílabo
 stl,hexástila
 stl,hexástilo
-,hey
 z,hez
-,hi
-,hí
 ln,hialina
 ln,hialino
 lgrf,hialografía
@@ -57028,7 +56994,7 @@ grscp,higroscopio
 gl,higuela
 gl,higüela
 gr,higuera
-gr,Higuera
+gr,higuera
 grl,higueral
 grt,higuereta
 grll,higuerilla
@@ -57132,7 +57098,7 @@ nnbl,hinnible
 njl,hinojal
 njr,hinojar
 nj,hinojo
-njs,Hinojosa
+njs,hinojosa
 nq,hinque
 ntr,hintero
 gls,hioglosa
@@ -58049,15 +58015,12 @@ tntt,hotentote
 t,hoto
 s,house
 v,hove
-,hoy
-,hoya
 d,hoyada
 nc,hoyanca
 nc,hoyanco
 r,hoyar
 t,hoyita
 ts,hoyitos
-,hoyo
 s,hoyosa
 s,hoyoso
 l,hoyuela
@@ -58069,7 +58032,6 @@ zdr,hozador
 zdr,hozadora
 zdr,hozadura
 zr,hozar
-,hu
 cl,huácala
 ct,huacatay
 chch,huachache
@@ -58112,7 +58074,6 @@ ntn,huantino
 nnns,huanunense
 nqñ,huanuqueña
 nqñ,huanuqueño
-,huao
 rn,huaorani
 png,huapango
 pngr,huapanguera
@@ -58438,9 +58399,6 @@ s,huso
 t,huta
 t,hutía
 t,hutu
-,huyuya
-,huyuyo
-,i
 bgrñ,ibaguereña
 bgrñ,ibaguereño
 brrñ,ibarreña
@@ -58631,7 +58589,7 @@ glsr,iglesiero
 gl,iglú
 gncn,ignaciana
 gncn,ignaciano
-gnc,Ignacio
+gnc,ignacio
 gnr,ignara
 gnr,ignaro
 gnv,ignava
@@ -59943,7 +59901,7 @@ ndr,indexar
 ndzl,indezuela
 ndzl,indezuelo
 nd,india
-nd,India
+nd,india
 ndd,indiada
 ndn,indiana
 ndns,indianés
@@ -60598,7 +60556,7 @@ ngn,ingenuo
 ngrr,ingerir
 ngst,ingesta
 ngstn,ingestión
-ngltrr,Inglaterra
+ngltrr,inglaterra
 ngl,ingle
 ngls,inglés
 ngls,inglesa
@@ -61993,7 +61951,7 @@ nvtd,invitada
 nvtd,invitado
 nvtdr,invitador
 nvtdr,invitadora
-nvtnrv,invita Minerva
+nvtmnrv,invita minerva
 nvtr,invitar
 nvttr,invitatorio
 nvt,invite
@@ -62043,7 +62001,7 @@ nsfr,ionosfera
 t,iota
 tcsm,iotacismo
 tzcn,iotización
-,IPC
+pc,ipc
 pccn,ipecacuana
 pg,ipegüe
 prt,iperita
@@ -62115,7 +62073,7 @@ rnst,ironista
 rnzr,ironizar
 rqs,iroqués
 rqs,iroquesa
-,IRPF
+rpf,irpf
 rrcnbldd,irracionabilidad
 rrcnbl,irracionable
 rrcnblmnt,irracionablemente
@@ -62265,7 +62223,7 @@ slbr,isalobara
 sltrm,isaloterma
 sts,ísatis
 sb,isba
-,ISBN
+sbn,isbn
 sc,isiaca
 sc,isiaco
 sdrn,isidoriana
@@ -62293,7 +62251,7 @@ slmlg,islamólogo
 sln,islán
 slnds,islandés
 slnds,islandesa
-slnd,Islandia
+slnd,islandia
 slndc,islándica
 slndc,islándico
 slr,islario
@@ -62305,7 +62263,7 @@ slll,islilla
 slt,islote
 smlt,ismaelita
 sm,ismo
-,ISO
+s,iso
 sbr,isobara
 sbrc,isobárica
 sbrc,isobárico
@@ -62386,7 +62344,7 @@ srl,israelí
 srlt,israelita
 srltc,israelítica
 srltc,israelítico
-,ISSN
+ssn,issn
 stmñ,istmeña
 stmñ,istmeño
 stmc,ístmica
@@ -62395,7 +62353,7 @@ stm,istmo
 stlt,istulte
 tct,itacate
 tl,ítala
-tl,Italia
+tl,italia
 tln,italiana
 tlnsm,italianismo
 tlnst,italianista
@@ -62430,7 +62388,7 @@ tr,itrio
 tzj,itzaj
 rstdr,iuris et de iure
 sntrlst,iusnaturalista
-,IVA
+v,iva
 vrnr,ivernar
 vrn,ivierno
 l,ixil
@@ -62453,7 +62411,6 @@ zqrdzr,izquierdizar
 zqrd,izquierdo
 zqrds,izquierdosa
 zqrds,izquierdoso
-j,j
 j,ja
 jb,jaba
 jbd,jabada
@@ -62663,7 +62620,7 @@ jlq,jaloque
 jm,jama
 jmcc,jamacuco
 jmc,jamaica
-mc,Jamaica
+jmc,jamaica
 jmcn,jamaicana
 jmcn,jamaicano
 jmqn,jamaiquina
@@ -62714,7 +62671,7 @@ jnsnsm,jansenismo
 jnsnst,jansenista
 jnch,januche
 jpn,japón
-pn,Japón
+jpn,japón
 jpn,japona
 jpnns,japonense
 jpns,japonés
@@ -62891,7 +62848,7 @@ jftr,jefatura
 jfz,jefaza
 jfz,jefazo
 jf,jefe
-v,Jehová
+jv,jehová
 jt,jeito
 jjn,jején
 jlng,jelengue
@@ -62937,7 +62894,7 @@ jrgll,jerguilla
 jrbq,jeribeque
 jrcll,jericalla
 jrc,jericaya
-rc,Jericó
+jrc,jericó
 jrf,jerife
 jrfn,jerifiana
 jrfn,jerifiano
@@ -62966,21 +62923,21 @@ jrslmtn,jerosolimitano
 jrp,jerpa
 jrrct,jerricote
 jrs,jersey
-rs,Jersey
+jrs,jersey
 jrg,jeruga
-rsln,Jerusalén
+jrsln,jerusalén
 jrvll,jervilla
-s,Jesé
+js,jesé
 jsnt,jesnata
 jsnt,jesnato
-scrst,Jesucristo
+jscrst,jesucristo
 jst,jesuita
 jstc,jesuítica
 jstc,jesuítico
 jstn,jesuitina
 jstn,jesuitino
 jstsm,jesuitismo
-ss,Jesús
+jss,jesús
 jssr,jesusear
 jt,jet
 jt,jeta
@@ -63049,7 +63006,7 @@ jmg,jimagua
 jmr,jimar
 jmlg,jimelga
 jmn,jimén
-mnz,Jiménez
+jmnz,jiménez
 jmrt,jimerito
 jm,jimia
 jm,jimio
@@ -63122,7 +63079,7 @@ jtmtr,jitomatera
 jtmtr,jitomatero
 jjts,jiu-jitsu
 j,jo
-b,Job
+jb,job
 jbd,jobada
 jbr,jobar
 jbr,jobero
@@ -63221,7 +63178,7 @@ jrp,joropo
 jrrr,jorrar
 jrr,jorro
 js,josa
-s,José
+js,josé
 jsdr,joseador
 jsr,josear
 jsfn,josefina
@@ -63263,7 +63220,7 @@ jn,juana
 jncstl,juanacastle
 jnddn,juandediana
 jnddn,juandediano
-nl,Juanelo
+jnl,juanelo
 jnt,juanete
 jntr,juanetero
 jntd,juanetuda
@@ -63307,7 +63264,7 @@ jdzcn,judaización
 jdznt,judaizante
 jdzr,judaizar
 jds,judas
-d,Judea
+jd,judea
 jdcnvrs,judeoconversa
 jdcnvrs,judeoconverso
 jdcrstn,judeocristiana
@@ -63586,7 +63543,6 @@ jzgdr,juzgaduría
 jzgmnt,juzgamiento
 jzgmnds,juzgamundos
 jzgr,juzgar
-k,k
 k,ka
 kbk,kabuki
 kfkn,kafkiana
@@ -63696,7 +63652,7 @@ kv,kivi
 k,kiwi
 klstrn,klistrón
 kl,koala
-ch,Koch
+kch,koch
 kdzt,kodzito
 kl,kohl
 kl,kohol
@@ -63718,7 +63674,6 @@ kngf,kung-fu
 krd,kurda
 krd,kurdo
 kt,kuwaití
-l,l
 l,la
 lbr,lábaro
 lb,labe
@@ -64558,7 +64513,7 @@ lrn,laurino
 lrslv,laurisilva
 lr,lauro
 lrcrs,lauroceraso
-ls,laus Deo
+lsd,laus deo
 lt,lauta
 ltmnt,lautamente
 lt,lauto
@@ -64825,7 +64780,7 @@ lgmns,leguminosa
 lgmns,leguminoso
 lbl,leíble
 ld,leída
-dn,Leiden
+ldn,leiden
 ld,leído
 ll,leila
 lm,leima
@@ -64987,7 +64942,7 @@ lprd,leopardo
 lpldn,leopoldina
 ltrd,leotardo
 lpsl,lepasil
-p,Lepe
+lp,lepe
 lpr,lépera
 lprd,leperada
 lpr,lépero
@@ -65202,7 +65157,7 @@ lbmnt,libamiento
 lbn,libán
 lbns,libanés
 lbns,libanesa
-bn,Líbano
+lbn,líbano
 lbr,libar
 lbtr,libatorio
 lbl,libela
@@ -66227,7 +66182,7 @@ ln,loína
 ln,loíno
 lsm,loísmo
 lst,loísta
-j,Loja
+lj,loja
 ljn,lojana
 ljn,lojano
 ljñ,lojeña
@@ -66248,7 +66203,7 @@ lmbrdd,lombardada
 lmbrdr,lombardear
 lmbrdr,lombardería
 lmbrdr,lombardero
-mbrd,Lombardía
+lmbrd,lombardía
 lmbrdc,lombárdica
 lmbrdc,lombárdico
 lmbrd,lombardo
@@ -66325,7 +66280,7 @@ lk,look
 lr,loor
 lpsc,lopesca
 lpsc,lopesco
-pz,López
+lpz,lópez
 lpg,lopigia
 lpst,lopista
 lqr,loquear
@@ -66403,8 +66358,8 @@ lznr,lozanear
 lzncr,lozanecer
 lzn,lozanía
 lzn,lozano
-,LP
-,LSD
+lp,lp
+lsd,lsd
 l,lúa
 lbgnt,lubigante
 lbn,lubina
@@ -66458,7 +66413,7 @@ lchrng,lucharniega
 lchrng,lucharniego
 lch,luche
 lc,lucia
-c,Lucía
+lc,lucía
 lcc,luciaca
 lcc,luciaco
 lcnsc,lucianesca
@@ -66554,7 +66509,7 @@ lgs,luguesa
 lcn,luición
 lr,luir
 ls,luis
-s,Luis
+ls,luis
 ls,luisa
 lsm,luismo
 ljcn,lujación
@@ -66713,7 +66668,6 @@ lmbrgs,luxemburguesa
 lmtr,luxómetro
 lz,luz
 lcr,lycra
-m,m
 m,ma
 mb,mabí
 mbl,mable
@@ -66993,7 +66947,7 @@ mdrprc,madrepórico
 mdrr,madrera
 mdrr,madrero
 mdrslv,madreselva
-drd,Madrid
+mdrd,madrid
 mdrgd,madrigada
 mdrgd,madrigado
 mdrgl,madrigal
@@ -67652,7 +67606,7 @@ mlsnr,malsonar
 mlsfrd,malsufrida
 mlsfrd,malsufrido
 mlt,malta
-lt,Malta
+mlt,malta
 mltd,malteada
 mltd,malteado
 mltr,maltear
@@ -67855,7 +67809,7 @@ mncr,máncer
 mncr,mancera
 mncrn,mancerina
 mnch,mancha
-nch,Mancha
+mnch,mancha
 mnchbrv,manchabrava
 mnchd,manchada
 mnchdz,manchadiza
@@ -68121,7 +68075,7 @@ mnj,manija
 mnjr,manijera
 mnjr,manijero
 mnl,manila
-nl,Manila
+mnl,manila
 mnlrg,manilarga
 mnlrg,manilargo
 mnlñ,manileña
@@ -68520,7 +68474,7 @@ mrchs,marchosa
 mrchs,marchoso
 mrc,marcia
 mrcl,marcial
-rcl,Marcial
+mrcl,marcial
 mrcldd,marcialidad
 mrcn,marciana
 mrcn,marciano
@@ -68627,7 +68581,7 @@ mrdr,maridar
 mrdz,maridazo
 mrdll,maridillo
 mrd,marido
-rgrgj,Marigargajo
+mrgrgj,marigargajo
 mrgnr,mariguanear
 mrgnz,mariguanza
 mrn,marihuana
@@ -68839,7 +68793,7 @@ mrspl,marsopla
 mrspl,marsupial
 mrsp,marsupio
 mrt,marta
-rt,Marta
+mrt,marta
 mrtg,mártaga
 mrtgn,martagón
 mrtgn,martagona
@@ -69352,7 +69306,7 @@ mzctd,mazacotuda
 mzctd,mazacotudo
 mzct,mazacuata
 mzd,mazada
-zgts,Mazagatos
+mzgts,mazagatos
 mzmrr,mazamorra
 mzn,mazana
 mznt,mazaneta
@@ -70583,7 +70537,7 @@ mcndd,mexicanidad
 mcnsm,mexicanismo
 mcnst,mexicanista
 mcn,mexicano
-c,México
+mc,méxico
 mqns,mexiquense
 m,meya
 mr,meyor
@@ -71277,7 +71231,7 @@ msnr,misionaria
 msnr,misionario
 msnr,misionera
 msnr,misionero
-sns,Misiones
+msns,misiones
 mss,misis
 msv,misiva
 msv,misivo
@@ -71481,7 +71435,7 @@ mcs,mocosa
 mcs,mocoso
 mcsn,mocosuena
 mcv,mocoví
-ctzm,Moctezuma
+mctzm,moctezuma
 md,mod
 md,moda
 mdl,modal
@@ -72182,7 +72136,7 @@ mntr,montero
 mntrr,monterrey
 mnts,montés
 mnts,montesa
-nts,Montesa
+mnts,montesa
 mntsc,montesco
 mntsn,montesina
 mntsn,montesino
@@ -72367,7 +72321,7 @@ mrtn,moretón
 mrf,morfa
 mrfr,morfar
 mrfm,morfema
-rf,Morfeo
+mrf,morfeo
 mrfn,morfina
 mrfnsm,morfinismo
 mrfnmn,morfinómana
@@ -72624,7 +72578,7 @@ mstn,mostén
 mstns,mostense
 mstll,mostillo
 mst,mosto
-stls,Móstoles
+mstls,móstoles
 mstrbl,mostrable
 mstrcn,mostración
 mstrd,mostrada
@@ -73321,8 +73275,6 @@ mt,mutuo
 m,muy
 mdn,muyahidín
 mzrb,muzárabe
-n,n
-ñ,ñ
 n,na
 ñ,ña
 nb,naba
@@ -73491,7 +73443,7 @@ nnch,nanche
 nnch,nanchi
 nnctl,nancital
 nnct,nancite
-nc,Nancy
+nnc,nancy
 nndmñ,nandaimeña
 nndmñ,nandaimeño
 nndrln,nandrolona
@@ -74023,7 +73975,7 @@ nctlc,neocatólica
 nctlcsm,neocatolicismo
 nctlc,neocatólico
 nclsc,neoclásica
-clscsm,Neoclasicismo
+nclscsm,neoclasicismo
 nclsc,neoclásico
 nclnlsm,neocolonialismo
 ncnsrvdr,neoconservador
@@ -74383,7 +74335,7 @@ nt,nieto
 ntzschn,nietzscheana
 ntzschn,nietzscheano
 nv,nieve
-,NIF
+nf,nif
 ngrn,nigeriana
 ngrn,nigeriano
 ngrn,nigerina
@@ -74527,7 +74479,7 @@ nzm,nizam
 nzrd,nizarda
 nzrd,nizardo
 ñzc,ñizca
-,NN
+nn,nn
 n,no
 ñ,ño
 nbl,nobel
@@ -74558,7 +74510,7 @@ nchr,nochera
 nchrng,nocherniega
 nchrng,nocherniego
 nchr,nochero
-chvj,Nochevieja
+nchvj,nochevieja
 nchz,nochizo
 ncbl,nocible
 nccpcn,nocicepción
@@ -74593,7 +74545,7 @@ nd,nodo
 ndrz,nodriza
 ndlr,nodular
 ndl,nódulo
-,Noé
+n,noé
 nm,noema
 nmtc,noemática
 nmtc,noemático
@@ -75100,8 +75052,6 @@ ntrtv,nutritivo
 ntrz,nutriz
 ntl,nutual
 ñzc,ñuzco
-,o
-,oa
 ss,oasis
 qñ,oaxaqueña
 qñ,oaxaqueño
@@ -75639,7 +75589,6 @@ fscr,ofuscar
 gnsn,oganesón
 grs,ogresa
 gr,ogro
-,oh
 m,ohm
 mc,óhmica
 mc,óhmico
@@ -75994,7 +75943,7 @@ nrr,onerario
 nrs,onerosa
 nrs,oneroso
 nfcml,onfacomeli
-,ONG
+ng,ong
 nc,ónice
 ncfg,onicofagia
 ncmnc,onicomancia
@@ -76590,7 +76539,7 @@ sr,osario
 str,osatura
 sc,osca
 scr,óscar
-scr,Óscar
+scr,óscar
 scrzr,oscarizar
 scns,oscense
 sclcn,oscilación
@@ -76857,7 +76806,6 @@ vvvpr,ovovivíparo
 vlcn,ovulación
 vlr,ovular
 vl,óvulo
-,ox
 lt,oxalato
 lc,oxálico
 ldc,oxalidácea
@@ -76865,7 +76813,6 @@ ldc,oxalidáceo
 ld,oxalídea
 ld,oxalídeo
 lm,oxalme
-,oxe
 r,oxear
 cnt,oxiacanta
 ctlnc,oxiacetilénica
@@ -76905,7 +76852,6 @@ znzr,ozonizar
 zn,ozono
 znmtr,ozonómetro
 znsfr,ozonosfera
-p,p
 p,pa
 pblln,pabellón
 pbl,pabilo
@@ -76913,7 +76859,7 @@ pbln,pabilón
 pbls,pabilosa
 pbls,pabiloso
 pblr,pablar
-bl,Pablo
+pbl,pablo
 pbl,pábulo
 pc,paca
 pcd,pacada
@@ -77663,7 +77609,7 @@ pndllst,pandillista
 pndn,pandina
 pndn,pandino
 pnd,pando
-ndr,Pandora
+pndr,pandora
 pndrg,pandorga
 pndr,pandura
 pndrc,pandureca
@@ -77714,7 +77660,7 @@ png,panga
 pngl,pangal
 pngsnn,pangasinán
 pngln,pangelín
-nglng,Pange lingua
+pnglng,pange lingua
 pngrmnc,pangermánica
 pngrmnc,pangermánico
 pngrmnsm,pangermanismo
@@ -78064,8 +78010,8 @@ prcntss,paracentesis
 prctml,paracetamol
 prchsps,parachispas
 prchqs,parachoques
-rclt,Paracleto
-rclt,Paráclito
+prclt,paracleto
+prclt,paráclito
 prcrnsm,paracronismo
 prd,parada
 prdr,paradera
@@ -78405,7 +78351,7 @@ prnctñ,parinacoteño
 pr,pario
 prp,paripé
 prr,parir
-rs,París
+prs,parís
 prsn,parisién
 prsn,parisiena
 prsns,parisiense
@@ -78420,7 +78366,7 @@ prtr,paritario
 prtr,paritorio
 prk,parka
 prkng,parking
-rknsn,Parkinson
+prknsn,parkinson
 prknsn,párkinson
 prknsnn,parkinsoniana
 prknsnn,parkinsoniano
@@ -79255,7 +79201,7 @@ pzprc,pazpuerca
 pzprc,pazpuerco
 pch,pche
 pchs,pchs
-,PCR
+pcr,pcr
 p,pe
 p,pea
 pj,peaje
@@ -79848,7 +79794,7 @@ pnlt,penalti
 pnm,péname
 pnnt,penante
 pnr,penar
-ñrnd,Peñaranda
+pñrnd,peñaranda
 pñscl,peñascal
 pñscr,peñascaró
 pñscz,peñascazo
@@ -80018,7 +79964,7 @@ pnttnc,pentatónica
 pnttnc,pentatónico
 pntvlnt,pentavalente
 pntcstl,pentecostal
-ntcsts,Pentecostés
+pntcsts,pentecostés
 pntlc,pentélica
 pntlc,pentélico
 pnts,penthouse
@@ -80045,7 +79991,7 @@ pr,peor
 prr,peorar
 pr,peoría
 pp,pepa
-p,Pepa
+pp,pepa
 ppz,pepazo
 pp,pepe
 ppn,pepena
@@ -80525,7 +80471,7 @@ prmtr,permutar
 prn,perna
 prnd,pernada
 prnls,pernales
-rnmbc,Pernambuco
+prnmbc,pernambuco
 prndr,perneador
 prndr,perneadora
 prnr,pernear
@@ -80560,7 +80506,7 @@ pr,pero
 prgrlld,perogrullada
 prgrllsc,perogrullesca
 prgrllsc,perogrullesco
-rgrll,Perogrullo
+prgrll,perogrullo
 prjmn,perojimén
 prjmnz,perojiménez
 prj,perojo
@@ -80890,7 +80836,7 @@ psd,pesuda
 psd,pesudo
 psñ,pesuña
 psñ,pesuño
-,PET
+pt,pet
 ptc,petaca
 ptc,petaco
 ptcn,petacón
@@ -80961,7 +80907,7 @@ ptr,pétrea
 ptrl,petrel
 ptr,pétreo
 ptrr,petrera
-tr,Petri
+ptr,petri
 ptrfccn,petrificación
 ptrfcnt,petrificante
 ptrfcr,petrificar
@@ -80988,7 +80934,7 @@ ptrqmc,petroquímica
 ptrqmc,petroquímico
 ptrs,petrosa
 ptrs,petroso
-trsncncts,Petrus in cunctis
+ptrsncncts,petrus in cunctis
 ptlnc,petulancia
 ptlnt,petulante
 ptlntmnt,petulantemente
@@ -81012,7 +80958,7 @@ pzpt,pezpita
 pzptl,pezpítalo
 pzl,pezuelo
 pzñ,pezuña
-p,pH
+p,ph
 p,pi
 p,pía
 pch,piache
@@ -81200,7 +81146,7 @@ pchnch,pichuncho
 pchrr,pichurra
 pchrr,pichurro
 pc,picia
-c,Picio
+pc,picio
 pcnc,pícnic
 pcnc,pícnica
 pcnc,pícnico
@@ -81470,7 +81416,7 @@ pnd,pinada
 pnl,pinal
 pñl,piñal
 pnr,pinar
-nr,Pinar
+pnr,pinar
 pnrñ,pinareña
 pnrñ,pinareño
 pnrg,pinariega
@@ -81613,7 +81559,7 @@ pntprd,pintiparada
 pntprd,pintiparado
 pntprr,pintiparar
 pnt,pinto
-nt,Pinto
+pnt,pinto
 pntj,pintoja
 pntj,pintojo
 pntn,pintón
@@ -82622,7 +82568,7 @@ plvs,pluviosa
 plvsdd,pluviosidad
 plvs,pluvioso
 pnm,pneuma
-,PNN
+pnn,pnn
 p,poa
 pbd,pobeda
 pblch,poblacho
@@ -83047,7 +82993,7 @@ pll,pololo
 pln,polona
 plns,polonés
 plns,polonesa
-ln,Polonia
+pln,polonia
 pln,polonio
 pln,polono
 pltrn,poltrón
@@ -83486,7 +83432,7 @@ prtr,portier
 prtll,portilla
 prtllr,portillera
 prtll,portillo
-rtlnd,Pórtland
+prtlnd,pórtland
 prtn,portón
 prtr,portor
 prtr,portora
@@ -85641,7 +85587,7 @@ prrgns,pruriginosa
 prrgns,pruriginoso
 prrg,prurigo
 prrt,prurito
-rs,Prusia
+prs,prusia
 prsn,prusiana
 prsnsm,prusianismo
 prsn,prusiano
@@ -86227,7 +86173,7 @@ prfctr,purificatoria
 prfctr,purificatorio
 prn,purín
 prn,purina
-rsm,Purísima
+prsm,purísima
 prsm,purismo
 prst,purista
 prtn,puritana
@@ -86314,9 +86260,8 @@ pd,puyudo
 pzl,puzle
 pzl,puzol
 pzln,puzolana
-,PVC
+pvc,pvc
 pm,pyme
-q,q
 q,qu
 qd,quad
 qdrvm,quadrivium
@@ -86545,7 +86490,7 @@ qchst,quichuista
 qcl,quicial
 qclr,quicialera
 qc,quicio
-c,Quico
+qc,quico
 qd,quid
 qdm,quídam
 qddvnm,quid divinum
@@ -86786,7 +86731,7 @@ qntllz,quintillizo
 qntll,quintillo
 qntlln,quintillón
 qntn,quintín
-ntn,Quintín
+qntn,quintín
 qnt,quinto
 qntnl,quintonil
 qntrl,quintral
@@ -86905,7 +86850,6 @@ qzrr,quizarrá
 qzs,quizás
 qzct,quizcuate
 qrm,quorum
-r,r
 r,ra
 rb,raba
 rbd,rabada
@@ -87328,7 +87272,7 @@ rmnr,ramonear
 rmn,ramoneo
 rmnn,ramoniana
 rmnn,ramoniano
-ms,Ramos
+rms,ramos
 rms,ramosa
 rms,ramoso
 rmp,rampa
@@ -87733,7 +87677,7 @@ rznl,razonal
 rznmnt,razonamiento
 rznnt,razonante
 rznr,razonar
-,RDSI
+rds,rdsi
 r,re
 r,rea
 rbrt,reabierta
@@ -87845,7 +87789,7 @@ rtn,reatina
 rtn,reatino
 rtz,reatiza
 rt,reato
-mr,Réaumur
+rmr,réaumur
 rvntr,reaventar
 rvvcn,reavivación
 rvvmnt,reavivamiento
@@ -89697,7 +89641,7 @@ rnglr,renglera
 rngln,renglón
 rnglndr,renglonadura
 rng,rengo
-ng,Rengo
+rng,rengo
 rngr,renguear
 rngr,renguera
 rñd,reñida
@@ -91092,7 +91036,7 @@ rzmdr,rezumadero
 rzmr,rezumar
 rzr,rezura
 rzrcr,rezurcir
-,Rh
+r,rh
 r,ria
 r,ría
 rch,riacho
@@ -91230,7 +91174,7 @@ rml,rímel
 rmr,rimero
 rm,rimú
 rn,rin
-n,Rin
+rn,rin
 rñ,riña
 rnnt,rinanto
 rncn,rincón
@@ -91370,7 +91314,7 @@ rzn,rizón
 rzpd,rizópodo
 rzs,rizosa
 rzs,rizoso
-,RNA
+rn,rna
 r,ro
 r,roa
 rn,roana
@@ -91533,7 +91477,7 @@ rdpl,rodapelo
 rdp,rodapié
 rdplnch,rodaplancha
 rdr,rodar
-ds,Rodas
+rds,rodas
 rd,rodea
 rdbrz,rodeabrazo
 rddr,rodeador
@@ -91637,7 +91581,7 @@ rlln,rollón
 rlln,rollona
 rl,rolo
 rm,roma
-m,Roma
+rm,roma
 rmdzrs,romadizarse
 rmdz,romadizo
 rmc,romaico
@@ -91824,7 +91768,7 @@ rpt,ropeta
 rpll,ropilla
 rpn,ropón
 rq,roque
-q,Roque
+rq,roque
 rqd,roqueda
 rqdl,roquedal
 rqd,roquedo
@@ -91918,7 +91862,7 @@ rstrtrt,rostrituerto
 rstrz,rostrizo
 rstr,rostro
 rt,rota
-t,Rota
+rt,rota
 rtcn,rotación
 rtcsm,rotacismo
 rtdr,rotador
@@ -92023,7 +91967,7 @@ rbls,rubiales
 rbcn,rubicán
 rbcn,rubicana
 rbcl,rubicela
-bcn,Rubicón
+rbcn,rubicón
 rbcnd,rubicunda
 rbcndz,rubicundez
 rbcnd,rubicundo
@@ -92638,7 +92582,7 @@ sj,sajía
 sjn,sajino
 sjn,sajón
 sjn,sajona
-jn,Sajonia
+sjn,sajonia
 sjrn,sajurín
 sjrn,sajurina
 sk,sake
@@ -93124,7 +93068,7 @@ snchc,sanchecia
 sncht,sanchete
 snchn,sanchina
 snch,sancho
-nch,Sancho
+snch,sancho
 snchpncsc,sanchopancesca
 snchpncsc,sanchopancesco
 sncn,sanción
@@ -93953,7 +93897,7 @@ sgbrgns,segobrigense
 sgrbn,segorbina
 sgrbn,segorbino
 sgt,segote
-gv,Segovia
+sgv,segovia
 sgvn,segoviana
 sgvn,segoviano
 sgvns,segoviense
@@ -94065,7 +94009,7 @@ slldr,selladora
 slldr,selladura
 sllr,sellar
 sll,sello
-ltz,Seltz
+sltz,seltz
 slv,selva
 slvj,selvaje
 slvjn,selvajina
@@ -95654,7 +95598,7 @@ s,siux
 szg,sizigia
 sktch,sketch
 slp,slip
-,SMS
+sms,sms
 s,so
 slzr,soalzar
 ssr,soasar
@@ -97338,7 +97282,7 @@ snd,suindá
 srr,suirirí
 st,suite
 sz,suiza
-z,Suiza
+sz,suiza
 szr,suízara
 szr,suízaro
 sz,suizo
@@ -97881,7 +97825,6 @@ s,suyo
 szn,suzón
 sl,swahili
 sng,swing
-t,t
 t,ta
 tb,taba
 tbcl,tabacal
@@ -98266,7 +98209,7 @@ tlld,talludo
 tllll,tallullo
 tlm,talma
 tlmnt,talmente
-lmd,Talmud
+tlmd,talmud
 tlmdc,talmúdica
 tlmdc,talmúdico
 tlmdst,talmudista
@@ -98501,7 +98444,7 @@ tntr,tantra
 tntrc,tántrica
 tntrc,tántrico
 tntrsm,tantrismo
-ntmrg,Tantum ergo
+tntmrg,tantum ergo
 tnz,tanza
 tnzn,tanzana
 tnzn,tanzano
@@ -98929,7 +98872,7 @@ ttqt,tatequieto
 ttt,tatetí
 ttt,tatita
 tt,tato
-t,Tato
+tt,tato
 tt,tatú
 ttj,tatuaje
 ttr,tatuar
@@ -99298,7 +99241,7 @@ tll,tell
 tlln,tellina
 tllz,telliz
 tllz,telliza
-lm,Telmo
+tlm,telmo
 tlfs,telofase
 tlmr,telómero
 tln,telón
@@ -99909,7 +99852,7 @@ trrj,terraje
 trrjr,terrajero
 trrl,terral
 trrmcn,terramicina
-rrnv,Terranova
+trrnv,terranova
 trrpln,terraplén
 trrplnr,terraplenar
 trrpln,terrapleno
@@ -100224,7 +100167,7 @@ tb,tibe
 tbrn,tiberina
 tbrn,tiberino
 tbr,tiberio
-bt,Tíbet
+tbt,tíbet
 tbtn,tibetana
 tbtn,tibetano
 tb,tibia
@@ -100758,7 +100701,7 @@ tlplr,tlapalería
 tlplr,tlapalero
 tlcltc,tlaxcalteca
 tlzl,tlazol
-,TNT
+tnt,tnt
 t,to
 t,toa
 tll,toalla
@@ -100899,7 +100842,7 @@ tld,toldo
 tl,tole
 tldn,toledana
 tldn,toledano
-ld,Toledo
+tld,toledo
 tln,tolena
 tlnd,tolenda
 tlrbldd,tolerabilidad
@@ -100944,7 +100887,7 @@ tlns,tolonesa
 tlsn,tolosana
 tlsn,tolosano
 tltc,tolteca
-l,Tolú
+tl,tolú
 tln,tolueno
 tlpn,tolupán
 tlqñ,toluqueña
@@ -101366,7 +101309,7 @@ trtllr,tortillera
 trtllr,tortillería
 trtllr,tortillero
 trtll,tortillo
-rts,Tortis
+trts,tortis
 trtt,tortita
 trtl,tortol
 trtl,tórtola
@@ -103120,7 +103063,7 @@ trvst,trovista
 trv,trovo
 tr,trox
 tr,troy
-r,Troya
+tr,troya
 trn,troyana
 trn,troyano
 trz,troza
@@ -103385,7 +103328,7 @@ tnlr,tunelar
 tnr,tunera
 tnr,tunería
 tnr,tunero
-nz,Túnez
+tnz,túnez
 tngr,tungra
 tngr,tungro
 tngstn,tungsteno
@@ -103626,7 +103569,6 @@ tz,tuza
 tk,twahka
 td,tweed
 tst,twist
-,u
 bj,ubajay
 b,ube
 brrm,ubérrima
@@ -103690,7 +103632,6 @@ grtc,ugarítico
 gtst,ugetista
 grfns,ugrofinés
 grfns,ugrofinesa
-,uh
 jr,ujier
 j,ujú
 jl,újule
@@ -104059,7 +104000,7 @@ rgnclg,urgenciólogo
 rgnt,urgente
 rgntmnt,urgentemente
 rgr,urgir
-rs,Urías
+rs,urías
 rc,úrica
 rc,úrico
 rctlc,uricotélica
@@ -104117,7 +104058,7 @@ snz,usanza
 sr,usar
 src,usarcé
 srcd,usarced
-,USB
+sb,usb
 scq,uscoque
 snc,usencia
 sñr,useñoría
@@ -104205,7 +104146,7 @@ trr,utrero
 trtr,ut retro
 tspr,ut supra
 v,uva
-,UVA
+v,uva
 vd,uvada
 vdz,uvaduz
 vgmstr,uvaguemaestre
@@ -104226,12 +104167,10 @@ vl,úvula
 vlr,uvular
 rcd,uxoricida
 rcd,uxoricidio
-,uy
 nns,uyunense
 zbk,uzbeka
 zbk,uzbeko
 z,uzo
-v,v
 vc,vaca
 vcb,vacabuey
 vccn,vacación
@@ -104487,7 +104426,7 @@ vlrzdr,valorizadora
 vlrzr,valorizar
 vlqr,valquiria
 vls,vals
-lsn,Valsaín
+vlsn,valsaín
 vlsr,valsar
 vls,valse
 vlcn,valuación
@@ -104581,7 +104520,7 @@ vqt,vaqueta
 vqll,vaquilla
 vqlln,vaquillona
 vqrl,vaquiruela
-,VAR
+vr,var
 vr,vara
 vrd,varada
 vrdr,varadera
@@ -104663,7 +104602,7 @@ vrtr,varitero
 vrz,variz
 vrz,varizo
 vr,varo
-rl,Varolio
+vrl,varolio
 vrn,varón
 vrn,varona
 vrns,varonesa
@@ -104763,7 +104702,7 @@ vctcn,vectación
 vctr,vector
 vctrl,vectorial
 vd,veda
-d,Veda
+vd,veda
 vdd,vedado
 vdmnt,vedamiento
 vdr,vedar
@@ -105041,7 +104980,7 @@ vndmr,vendimiar
 vndmr,vendimiario
 vnd,vendo
 vndt,venduta
-nc,Venecia
+vnc,venecia
 vncn,veneciana
 vncn,veneciano
 vnfc,venéfica
@@ -105081,7 +105020,7 @@ vnzln,venezolana
 vnzlndd,venezolanidad
 vnzlnsm,venezolanismo
 vnzln,venezolano
-nzl,Venezuela
+vnzl,venezuela
 vngbl,vengable
 vngdr,vengador
 vngdr,vengadora
@@ -105655,7 +105594,7 @@ vcjf,vicejefa
 vcjf,vicejefe
 vcnl,vicenal
 vcns,vicense
-cnt,Vicente
+vcnt,vicente
 vcntn,vicentina
 vcntn,vicentino
 vcprsdnc,vicepresidencia
@@ -105834,7 +105773,7 @@ vgr,viguería
 vgs,vigués
 vgs,viguesa
 vgt,vigueta
-,VIH
+v,vih
 vl,vihuela
 vlst,vihuelista
 vkng,vikinga
@@ -105854,7 +105793,7 @@ vll,villa
 vllbrqn,villabarquín
 vllclrñ,villaclareña
 vllclrñ,villaclareño
-lldg,Villadiego
+vlldg,villadiego
 vllj,villaje
 vllmntñ,villamonteña
 vllmntñ,villamonteño
@@ -106627,7 +106566,7 @@ vlgrzdr,vulgarizador
 vlgrzdr,vulgarizadora
 vlgrzr,vulgarizar
 vlgrmnt,vulgarmente
-lgt,Vulgata
+vlgt,vulgata
 vlg,vulgo
 vlnrbldd,vulnerabilidad
 vlnrbl,vulnerable
@@ -106647,7 +106586,6 @@ vltrn,vulturno
 vlv,vulva
 vsc,vusco
 vstd,vusted
-,w
 gnrn,wagneriana
 gnrn,wagneriano
 b,wahabí
@@ -106661,7 +106599,6 @@ sngtnn,washingtoniano
 trplst,waterpolista
 trpl,waterpolo
 tt,watt
-,wau
 b,web
 br,weber
 bnr,webinario
@@ -106685,7 +106622,6 @@ ndsrfst,windsurfista
 k,wok
 lfrm,wólfram
 lfrm,wolframio
-,x
 ntn,xantina
 ntm,xantoma
 c,xeca
@@ -106724,7 +106660,6 @@ rgrfc,xerográfica
 rgrfc,xerográfico
 rgrf,xerógrafo
 rtc,xeroteca
-,xi
 fd,xifoidea
 fd,xifoideo
 fds,xifoides
@@ -106749,8 +106684,6 @@ ctl,xocoatole
 ct,xocoyote
 l,xola
 l,xolo
-,y
-,ya
 cb,yaacabó
 b,yaba
 bn,yabuna
@@ -106839,9 +106772,6 @@ t,yautía
 n,yauyina
 n,yauyino
 ch,yaxché
-,yaya
-,yayo
-,ye
 b,yebo
 cln,yeclana
 cln,yeclano
@@ -106911,8 +106841,6 @@ ss,yesosa
 ss,yesoso
 sqr,yesquero
 t,yeti
-,yeyé
-,yeyo
 n,yeyuno
 zg,yezgo
 btn,yibutiana
@@ -106927,7 +106855,6 @@ ncn,yincana
 p,yip
 r,yira
 r,yiro
-,yo
 d,yod
 dcn,yodación
 dd,yodada
@@ -106955,8 +106882,8 @@ lll,yolillo
 ltml,yoltamal
 ltsc,yoltasca
 mbn,yombina
-mppr,Yom Kippur
-mpr,Yom Kipur
+mkppr,yom kippur
+mkpr,yom kipur
 nq,yonqui
 qprdsm,yoquepierdismo
 qprdst,yoquepierdista
@@ -106969,8 +106896,6 @@ rk,york
 s,yos
 tlñ,yotaleña
 tlñ,yotaleño
-,yoyo
-,yoyó
 n,yuan
 brt,yubarta
 b,yubo
@@ -107042,9 +106967,7 @@ l,yuyal
 r,yuyera
 r,yuyería
 r,yuyero
-,yuyo
 b,yuyuba
-z,z
 z,za
 zblmdn,zabalmedina
 zbrcr,zabarcera
