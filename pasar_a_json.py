@@ -14,5 +14,3 @@ archivo_json = "datos.json"
 # Guardar el diccionario como JSON
 with open(archivo_json, "w", encoding="utf-8") as file:
     json.dump(grupos, file, indent=4, ensure_ascii=False)
-
-print(f"Los datos se han guardado correctamente en {archivo_json}")
