@@ -35,8 +35,11 @@ palabras_arr = []
 
 
 for idx, palabra in enumerate(lista):  # recorremos cada palabra
+
     palabra = str(palabra).lower()
     len_palabra = len(palabra) - 1
+    if len_palabra == 0:
+        continue
     keyword = ""
     for idx_p, ch in enumerate(palabra):  # recorremos cada caractér de cada palbra
         # acá hacemos una pequeña validación por que la CH es un caractér de por sí, entonces tenemos que fijarnos en la siguiente letra
