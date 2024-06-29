@@ -3,7 +3,7 @@ import random as r
 
 from generar_posibilidades import generar_particiones
 
-archivo_json = "datos.json"
+archivo_json = "datos2.json"
 
 with open(archivo_json, "r", encoding="utf-8") as file:
     datos_cargados = json.load(file)
