@@ -35,6 +35,7 @@ palabras_arr = []
 
 
 for idx, palabra in enumerate(lista):  # recorremos cada palabra
+    palabra = str(palabra).lower()
     len_palabra = len(palabra) - 1
     keyword = ""
     for idx_p, ch in enumerate(palabra):  # recorremos cada caractér de cada palbra
